@@ -75,7 +75,6 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 <br><br>
 
 
-
 ## Case Study: Customer Churn Rate Analysis with Artificial Neural Networks
 
 **Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.<br><br>
@@ -86,19 +85,6 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf"> Case Study Paper</a>
 - <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study">Github Repo</a> 
 - <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Network_Case_Study.py"> Python Code</a>
-
-<br><br>
-
-<br><br>
-
-## Case Study: Top-N Movie Recommender 
-
-**Why:** For a given movie subscriber, determine the top N movies that this user will likely be interested in and if recommended he/she will watch these movies as well.<br><br>
-**How:** Using user's past rating data to train Item-Item Collaborative Filtering to predict top N movies the user is likely to assign a high rating.<br>
-
-
-- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
-- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
 
 <br><br>
 
@@ -149,6 +135,18 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 <br><br>
 
+<br><br>
+
+## Case Study: Top-N Movie Recommender 
+
+**Why:** For a given movie subscriber, determine the top N movies that this user will likely be interested in and if recommended he/she will watch these movies as well.<br><br>
+**How:** Using user's past rating data to train Item-Item Collaborative Filtering to predict top N movies the user is likely to assign a high rating.<br>
+
+
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
+
+<br><br>
 
 
 
