@@ -49,8 +49,8 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 ## Case Study: Price Prediction with Recurrent Neural Networks
-**Why:** <br>
-**How:** <br>
+**Why:**  To determine the future value of a stock or a financial instrument traded (publicly) on an exchange to gain significant profit or avoid losses given efficient-market hypothesis. Although exact price prediction is nearly impossible, but approximate price estimation is possible and can positively impact investor's buying strategy.<br>
+**How:** Using the past 5y historical stock price data and Recurrent Neural Network(RNN) with 5 LSTM layers combined with Time Series Analysis to predict the upward and downward trends in the future stock prices.<br>
 
 
 - <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
@@ -62,8 +62,8 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study: Image Recognition with Convolutional Neural Networks
 
-**Why:** <br>
-**How:** <br>
+**Why:** To identify the class which an image belongs a dog image class or a cat image class.<br>
+**How:** Using 8K images of dogs and cats to train Convolutional Neural Network(CNN) to predict whether the input image is a dog image or a cat image.<br>
 
 
 - <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
@@ -76,8 +76,9 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study: Customer Churn Rate Analysis with Artificial Neural Networks
 
-**Why:** <br>
-**How:** <br>
+**Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.<br>
+**How:** Using customer behavour data to train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.<br>
+
 
 
 - <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf"> Case Study Paper</a>
@@ -90,10 +91,9 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study: Top-N Movie Recommender 
 
-**Why:** <br>
-**How:** <br>
+**Why:** For a given movie subscriber, determine the top N movies that this user will likely be interested in and if recommended he/she will watch these movies as well.<br>
+**How:** Using user's past rating data to train Item-Item Collaborative Filtering to predict top N movies the user is likely to assign a high rating.<br>
 
-Item-Item Collaborative Filtering
 
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
 - <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
@@ -110,8 +110,9 @@ Item-Item Collaborative Filtering
 
 ## Case Study in Multivariate Statistics
 
-**Why:** <br>
-**How:** <br>
+**Why:** To identify the top US cities with highest capital, urban growth and development for purposes for everyone looking to relocate to or within US for various purposes.<br>
+**How:** Using Places Rated Almanac data to find the rankings of the cities in United States based on a single combination of 9 rating variables using Principal Components Analysis (PCA) and Factor Analysis (FA). We also use Canonical Correlation Analysis (CCA) to get more insights in this data and investigate the correlation between two sets of rating variables (if existing). <br>
+
 
 
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf"> Case Study Paper</a>
@@ -124,8 +125,8 @@ Item-Item Collaborative Filtering
 
 ## Case Study in Advanced Marketing Models (FastMCD)
 
-**Why:** <br>
-**How:** <br>
+**Why:** Linear Discriminant Analysis (LDA) is one of the most widely-used classification methods for predicting qualitative response variables but it is highly sensitive to the outliers and it produces unreliable results in case the data is contaminated. To improve the robustness of the LDA, it’s necessary to consider robust estimators for means and covaraince matrices. The robustified LDA employs robust estimators for location and scatter to limit the impact of outliers in the data.
+**How:** Using FastMCD algorithm to compute robust estimators for location and scatter parameters for robustified LDA where we code the FastMCD function/algorithm manually in R and verify it's results with a FastMCD function from R library.<br>
 
 
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_FastMCD_CaseStudy.pdf"> Case Study Paper</a>
@@ -137,8 +138,8 @@ Item-Item Collaborative Filtering
 
 ## Case Study in Advanced Marketing Models (Missing Data Mechanisms)
 
-**Why:** <br>
-**How:** <br>
+**Why:** Most of the statistical methods and algorithms require complete data and usig data with missing observations or entires can produce unreliable results.Therefore, it is important to know the reason for missingness in the data, it’s effect on the analysis and how these missiing data entir3es can be imputed. <br>
+**How:** Using Boston housing data with a model-based simulation to perform Ordinary Least Squares (OLS) and Method of Moments (MM) estimations when applying Single Imputation (SI) or Multiple Imputation (MI) imputation techniques while artificially adding missing data with 3 different missing data mechanisms Missing At Random(MAR), Missing Completely At Random(MCAR) and Missing Not At Random(MNAR).<br>
 
 
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> Case Study Paper</a>
