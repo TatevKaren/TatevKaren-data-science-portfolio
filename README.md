@@ -19,9 +19,10 @@ Statistics, Machine Learning, Big Data Analytics and Tools, Econometrics and mor
 
 
 ## Research Project/Authored Paper: New Recommender Algorithm LDA-LFM
-**Why:** <br>
-**How:** <br>
 
+**Why:** Most of the existing recommender systems are based only on the rating data, and they ignore other sources of information that might increase the quality of recommendations, such as textual reviews or user and item characteristics. Moreover, the majority of those systems are applicable only on small datasets and are unable to handle large datasets. <br><br>
+**How:** We propose a new hybrid recommender algorithm that combines a rating modelling technique (i.e., Latent Factor Model) with a topic modelling method based on textual reviews (i.e., Latent Dirichlet Allocation), and we extend the algorithm such that it allows adding extra user- and item-specific information to the system. We evaluated the performance of the algorithm using Amazon.com datasets. <br>
+<br><br>
 This research has been accepted and presented at **36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)**. The paper based on this work has been published at **Association for Computing Machinery (ACM)** journal and in ACM digital library. This paper has also been selected by the ACM SIGAPP Conference penalists to be extened and this extended version will be published in **Applied Computing Review (ACR)**, distributed to all ACM/SIGAPP members by paid subscription. 
 
 - <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view"> Research Paper</a>
@@ -49,7 +50,8 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 ## Case Study: Price Prediction with Recurrent Neural Networks
-**Why:**  To determine the future value of a stock or a financial instrument traded (publicly) on an exchange to gain significant profit or avoid losses given efficient-market hypothesis. Although exact price prediction is nearly impossible, but approximate price estimation is possible and can positively impact investor's buying strategy.<br>
+
+**Why:**  To determine the future value of a stock or a financial instrument traded (publicly) on an exchange to gain significant profit or avoid losses given efficient-market hypothesis. Although exact price prediction is nearly impossible, but approximate price estimation is possible and can positively impact investor's buying strategy.<br><br>
 **How:** Using the past 5y historical stock price data and Recurrent Neural Network(RNN) with 5 LSTM layers combined with Time Series Analysis to predict the upward and downward trends in the future stock prices.<br>
 
 
@@ -62,7 +64,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study: Image Recognition with Convolutional Neural Networks
 
-**Why:** To identify the class which an image belongs a dog image class or a cat image class.<br>
+**Why:** To identify the class which an image belongs a dog image class or a cat image class.<br><br>
 **How:** Using 8K images of dogs and cats to train Convolutional Neural Network(CNN) to predict whether the input image is a dog image or a cat image.<br>
 
 
@@ -76,7 +78,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study: Customer Churn Rate Analysis with Artificial Neural Networks
 
-**Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.<br>
+**Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.<br><br>
 **How:** Using customer behavour data to train Artifical Neural Network (ANN) to predict the probability of each customer leaving the company.<br>
 
 
@@ -91,7 +93,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study: Top-N Movie Recommender 
 
-**Why:** For a given movie subscriber, determine the top N movies that this user will likely be interested in and if recommended he/she will watch these movies as well.<br>
+**Why:** For a given movie subscriber, determine the top N movies that this user will likely be interested in and if recommended he/she will watch these movies as well.<br><br>
 **How:** Using user's past rating data to train Item-Item Collaborative Filtering to predict top N movies the user is likely to assign a high rating.<br>
 
 
@@ -110,7 +112,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study in Multivariate Statistics
 
-**Why:** To identify the top US cities with highest capital, urban growth and development for purposes for everyone looking to relocate to or within US for various purposes.<br>
+**Why:** To identify the top US cities with highest capital, urban growth and development for purposes for everyone looking to relocate to or within US for various purposes.<br><br>
 **How:** Using Places Rated Almanac data to find the rankings of the cities in United States based on a single combination of 9 rating variables using Principal Components Analysis (PCA) and Factor Analysis (FA). We also use Canonical Correlation Analysis (CCA) to get more insights in this data and investigate the correlation between two sets of rating variables (if existing). <br>
 
 
@@ -125,7 +127,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study in Advanced Marketing Models (FastMCD)
 
-**Why:** Linear Discriminant Analysis (LDA) is one of the most widely-used classification methods for predicting qualitative response variables but it is highly sensitive to the outliers and it produces unreliable results in case the data is contaminated. To improve the robustness of the LDA, it’s necessary to consider robust estimators for means and covaraince matrices. The robustified LDA employs robust estimators for location and scatter to limit the impact of outliers in the data.
+**Why:** Linear Discriminant Analysis (LDA) is one of the most widely-used classification methods for predicting qualitative response variables but it is highly sensitive to the outliers and it produces unreliable results in case the data is contaminated. To improve the robustness of the LDA, it’s necessary to consider robust estimators for means and covaraince matrices. The robustified LDA employs robust estimators for location and scatter to limit the impact of outliers in the data.<br><br>
 **How:** Using FastMCD algorithm to compute robust estimators for location and scatter parameters for robustified LDA where we code the FastMCD function/algorithm manually in R and verify it's results with a FastMCD function from R library.<br>
 
 
@@ -138,7 +140,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study in Advanced Marketing Models (Missing Data Mechanisms)
 
-**Why:** Most of the statistical methods and algorithms require complete data and usig data with missing observations or entires can produce unreliable results.Therefore, it is important to know the reason for missingness in the data, it’s effect on the analysis and how these missiing data entir3es can be imputed. <br>
+**Why:** Most of the statistical methods and algorithms require complete data and usig data with missing observations or entires can produce unreliable results.Therefore, it is important to know the reason for missingness in the data, it’s effect on the analysis and how these missiing data entir3es can be imputed. <br><br>
 **How:** Using Boston housing data with a model-based simulation to perform Ordinary Least Squares (OLS) and Method of Moments (MM) estimations when applying Single Imputation (SI) or Multiple Imputation (MI) imputation techniques while artificially adding missing data with 3 different missing data mechanisms Missing At Random(MAR), Missing Completely At Random(MCAR) and Missing Not At Random(MNAR).<br>
 
 
