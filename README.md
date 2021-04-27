@@ -92,7 +92,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 <h1 align="center" style="background-color:Tomato;"> Case Studies in Statistics</h1>
 <p align="center">
 <img src="https://31.media.tumblr.com/6e30102110ed817963e3066d8e936dbb/tumblr_ne7culaYCR1qza6bio1_1280.gif?raw=true"
-  alt=""width="400" height="400">
+  alt=""width="400" height="380">
 </p>
 <br><br>
 
