@@ -83,7 +83,9 @@ To replicate the analysis including, cleaning and processing the data and genera
  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%201.png?raw=true"
   width="650" height="400"> </p>
   <br>
-    **Interpretation**
+
+**Interpretation**
+
 This figure shows the percentage decrease or improvement in MSE when comparing the proposed method LDA-LFM to the Offset model and BRM. The green bars show the percentage decrrease in MSE or improvement in prediction accuracy when using LDA-LFM instead of the Offset method, whereas the gray bars show the percentage decrease in MSE or improvement in the accuracy of the predictions when using LDA-LFM instead of the Baseline Rating Model. This is the case when it is assumed that the number of latent factors is equal to 5. What can see that LDA-LFM improves the prediction accuracy with at least 10% compared to the Offset method for all datasets. When looking at the green bars we observe that for the majority of datasets the proposed method improves the accuracy of the predictions with at least 15% compared to the BRM model, and for the larger datasets this improvement can be more than 30% and even rich the 40% improvement. 
     <br>
   <br>
