@@ -79,6 +79,7 @@ To replicate the analysis including, cleaning and processing the data and genera
  # Model Performance Visualizatiion 
  <br>
  
+ ## Results 1
  Performance of **proposed LDA-LFM recommender system** compared to **Offset** and **Baseline Recommender Model** in terms of Mean Squared Error (MSE)
  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%201.png?raw=true"
   width="650" height="400"> </p>
@@ -90,7 +91,9 @@ This figure shows the percentage decrease or improvement in MSE when c
   <br>
   <br><br><br>
   
-  Performance of **proposed LDA-LFM recommender system** compared to standard **Matrix Factorization** and **LDAFirst model** in terms of Mean Squared Error (MSE)
+ ## Results 2
+   
+ Performance of **proposed LDA-LFM recommender system** compared to standard **Matrix Factorization** and **LDAFirst model** in terms of Mean Squared Error (MSE)
    <br><p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Picture%202.png?raw=true"
   width="650" height="450"> </p>
   <br> 
@@ -105,7 +108,8 @@ So, we see that the proposed model leads to an improvement in the pre
 
   
  <br> <br><br><br>
-  
+ ## Results 3
+
  Performance of **proposed LDA-LFM recommender system** compared to itself when adding 1-4 **extra features** in terms of Mean Squared Error (MSE)
 
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Picture%203.png?raw=true"
