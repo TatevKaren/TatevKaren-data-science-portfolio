@@ -12,6 +12,8 @@
 **How:** We propose a new hybrid recommender algorithm that combines a rating modelling technique (i.e., Latent Factor Model) with a topic modelling method based on textual reviews (i.e., Latent Dirichlet Allocation), and we extend the algorithm such that it allows adding extra user- and item-specific information to the system. We evaluated the performance of the algorithm using Amazon.com datasets. <br><br>
   
  [![](https://img.shields.io/badge/Recommender%20System-LDA--LFM-gree)]()
+ [![](https://img.shields.io/badge/Amazon.com-23__datasets-red)]()
+
  
  ## Abstract
 The increased popularity of e-commerce has led to an increase in both the number of onlineconsumers and products.  Deciding which product to buy from a large variety of productsmight be overwhelming.  Recommender systems (RS) are able to solve this problem of in-formation overload and help online buyers,  by suggesting them the right products to buy,resulting in higher customer satisfaction and customer loyalty.  Correspondingly, companiesget more opportunities to introduce new products and suggest them to the right customers,resulting in increased sales.  In order to make good recommendations, we must predict howa customer will respond to unseen product, based on the user feedback that often comes inthe form of a rating and review text.  However, traditional RS often use only the rating data,while ignoring the rich source of information present in users’ textual reviews and other typesof data.  Moreover, they are solely applicable to small datasets and unable to handle datasetswith millions of reviews.  
