@@ -11,8 +11,10 @@
 
 **How:** We propose a new hybrid recommender algorithm that combines a rating modelling technique (i.e., Latent Factor Model) with a topic modelling method based on textual reviews (i.e., Latent Dirichlet Allocation), and we extend the algorithm such that it allows adding extra user- and item-specific information to the system. We evaluated the performance of the algorithm using Amazon.com datasets. <br><br>
   
- [![](https://img.shields.io/badge/Recommender%20System-LDA--LFM-gree)]()
+ [![](https://img.shields.io/badge/Recommender%20System-LDA--LFM-gree?logo=Amazon)]()
  [![](https://img.shields.io/badge/Amazon.com-23__datasets-red)]()
+ [![]( https://img.shields.io/badge/Tensorflow-Run_in_Colab-EE4C2C?logo=Tensorflow)]()
+
 
  
  ## Abstract
