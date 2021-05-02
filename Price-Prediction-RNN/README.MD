@@ -52,17 +52,12 @@ LSTMs have the same information flow as usual RNNs with the sequential informati
 <br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/methods/LSTM.png?raw=true"
-  width="450" height="300">
+  width="400" height="300">
 </p>
 <br>
 <p align="left">.
 <br>
-<p align="left">
-  <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/methods/LSTM code.png?raw=true"
-  width="500" height="330">
-</p>
-<br>
-<br>
+
 
 ## Activation Functions (Sigmoid and Hyperbolic Tangent)
 
