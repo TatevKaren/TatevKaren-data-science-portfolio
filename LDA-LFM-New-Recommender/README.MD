@@ -114,6 +114,7 @@ So, we see that the proposed model leads to an improvement in the pre
   <br>
   
 **Interpretation**
+
 This figure shows the improvement in the prediction accuracy of the base LDA-LFM model with its 4 different variations when adding 1-4 extra features, the red bars correspond to the case when 1 extra feature  is added to the model, orange when 2 extra features are added, gray when 3 features are added and green when 4 extra features are added. As we can see there are many positive bars which means that for all those cases it holds that adding extra  features leads to higher prediction accuracy in terms of MSE. For almost all datasets we see positive effects or not very significant positive or negative effects. The green bars corresponding to the case where the most amount of extra features had been added are more visible suggesting that adding more features help to improve the prediction accuracy of the LDA-LFM model more. 
 
   <br>
