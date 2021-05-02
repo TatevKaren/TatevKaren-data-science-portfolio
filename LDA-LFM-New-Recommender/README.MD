@@ -87,13 +87,25 @@ To replicate the analysis including, cleaning and processing the data and genera
 **Interpretation**
 
 This figure shows the percentage decrease or improvement in MSE when comparing the proposed method LDA-LFM to the Offset model and BRM. The green bars show the percentage decrrease in MSE or improvement in prediction accuracy when using LDA-LFM instead of the Offset method, whereas the gray bars show the percentage decrease in MSE or improvement in the accuracy of the predictions when using LDA-LFM instead of the Baseline Rating Model. What can see is that LDA-LFM improves the prediction accuracy with at least 10% compared to the Offset method for all datasets. When looking at the green bars we observe that the proposed method improves the accuracy of the predictions with at least 15% compared to the BRM model for most of the product datasets, and for the larger datasets this improvement can be more than 30% and even rich the 40% improvement. 
-    <br>
   <br>
+  <br><br><br>
   
   Performance of **proposed LDA-LFM recommender system** compared to standard **Matrix Factorization** and **LDAFirst model** in terms of Mean Squared Error (MSE)
    <br><p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Picture%202.png?raw=true"
   width="650" height="450"> </p>
-  <br> <br> <br>
+  <br> 
+  
+**Interpretation**
+
+The figure shows the percentage decrease in MSE or improvement in prediction accuracy when comparing the proposed method LDA-LFM to the standard LFM model and LDAFirst model. The orange bars show the percentage decrease in MSE when using LDA-LFM instead of the Standard LFM method, whereas the red bars show the percentage decrease in MSE when using LDA-LFM instead of the LDAFirst. What the figure shows is that in both cases the majority of bars lie above the 0 level indication positive effect on the prediction accuracy when using the proposed method. 
+ 
+Looking at the orange bars one can see that for datasets except for smallest 3, Musical Instruments, Amazon Instant Video, Digital Music the LDA-LFM leads to increase in the prediction accuracy, in the case of Kindle Store dataset this improvement is 14%, which means that the proposed algorithm leads to 14% improvement in the prediction accuracy compared to the standard LFM model for this dataset. When looking at the red bars we observe that for almost all datasets except of the smallest 3 and Patio, Lawn and Garden, the LDA-LFM leads to improvement in the prediction accuracy compared to the LDAFirst method, and in some cases such as Kindle Store the improvement is 14%. 
+
+So, we see that the proposed model leads to an improvement in the prediction accuracy compared to the all 4 baseline cases for medium sized and large datasets. In this research we have also adding extra features to the model to find out whether adding extra user and item features leads to an improvement in the accuracy of the LDA-LFM model and we found that when adding extra features, then the proposed algorithm performs better than when no extra features are added.This again is especially true for medium and large datasets.
+
+  
+ <br> <br><br><br>
+  
  Performance of **proposed LDA-LFM recommender system** compared to itself when adding 1-4 **extra features** in terms of Mean Squared Error (MSE)
 
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Picture%203.png?raw=true"
