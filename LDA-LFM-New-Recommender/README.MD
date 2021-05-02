@@ -5,7 +5,9 @@
 <p> <img href ="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf" src="https://miro.medium.com/max/1120/1*OAHUmDf7SkFFeYF6Bsa5EQ.png?raw=true"
   alt="Multivariate Linear Regression plot"
   width="900" height="300"> </p>
-  <br>
+  <br> <br>
+**Why:** Most of the existing recommender systems are based only on the rating data, and they ignore other sources of information that might increase the quality of recommendations, such as textual reviews or user and item characteristics. Moreover, the majority of those systems are applicable only on small datasets and are unable to handle large datasets. <br><br>
+**How:** We propose a new hybrid recommender algorithm that combines a rating modelling technique (i.e., Latent Factor Model) with a topic modelling method based on textual reviews (i.e., Latent Dirichlet Allocation), and we extend the algorithm such that it allows adding extra user- and item-specific information to the system. We evaluated the performance of the algorithm using Amazon.com datasets. <br>
   
  **Abstract**
  <br>
