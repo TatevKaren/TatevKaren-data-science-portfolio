@@ -52,7 +52,7 @@ Comparing the real Google stock values and predicted Google stock values that ar
 <br>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Prediction_Results.png?raw=true"
-  width="600" height="400">
+  width="500" height="400">
 </p>
 <br>
 <br>
