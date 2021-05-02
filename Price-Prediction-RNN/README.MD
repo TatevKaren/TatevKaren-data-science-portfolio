@@ -6,6 +6,6 @@
 
 
 [![](https://img.shields.io/badge/Deep__Learning-RNN-brightgreen)]()
-[![](https://img.shields.io/badge/Tensorflow-EE4C2C?logo=Tensorflow)]()
+[![](https://img.shields.io/badge/Tensorflow-d9c3c3?logo=Tensorflow)]()
 [![](https://img.shields.io/badge/Keras-8a1111?logo=Keras)]()
 
