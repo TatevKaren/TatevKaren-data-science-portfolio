@@ -13,7 +13,7 @@
 [![](https://img.shields.io/badge/Price__Prediction-Bitcoin-yellow?logo=Bitcoin)]()
 
 
-<br>
+<br><br><br>
 
 # Case Study with 2 applications
 
@@ -25,7 +25,17 @@ In this case study we use Deep Learning, Recurrent Neural Networks with Long Sho
 We combine Time Series Analysis with RNN model with LSTM layers to predict the price using the financial products' historical data of last 5 years (2016-2020). LSTM is more sophisticated version of RNN which addresses the Vanishing Gradient Problem that RNNs often suffer from. 
 <br><br>
 ## Application 1: Google Stock Price Prediction
-
+We have used <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/tree/main/data">Google stock price data</a>, publicly available and downloaded from Yahoo Finance. For training the model we have used stock prices for the period of 2016-2020 and used it to predict stock prices for the January of 2021. 
+<br>
+You can download the <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/data/Google_Stock_Price_Trainset.csv">Training Data here</a><br>
+You can download the <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/data/Google_Stock_Price_Testset.csv">Test Data here</a><br><br>
+Google Stock Price Development Graph (Training Data)
+<p align="left">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Google Stock Price Development.png?raw=true"
+  width="600" height="300">
+</p>
+<br>
+<br>
 
 ## Application 2: Bitcoin Price Prediction
 
