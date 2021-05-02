@@ -15,7 +15,7 @@
 
 <br>
 
-## Case Study with 2 applications
+# Case Study with 2 applications
 
 In this case study we use Deep Learning, Recurrent Neural Networks with Long Short-Term Memory(LSTM) layers to predict the price of the a financial instrument. We apply it in two different cases: 
 
@@ -23,7 +23,11 @@ In this case study we use Deep Learning, Recurrent Neural Networks with Long Sho
 - Bitcoin Price Prediction
 
 We combine Time Series Analysis with RNN model with LSTM layers to predict the price using the financial products' historical data of last 5 years (2016-2020). LSTM is more sophisticated version of RNN which addresses the Vanishing Gradient Problem that RNNs often suffer from. 
+<br><br>
+## Application 1: Google Stock Price Prediction
 
+
+## Application 2: Bitcoin Price Prediction
 
 
 
