@@ -57,7 +57,9 @@ pip3 install tensorflow
 
 <br>
 To replicate the analysis including, cleaning and processing the data and generating recommendations with 4 different baseline moodels and with proposed method, you can use the following Python scrips. The order need to be kept intact to avoid errors and the **Amazon.com** data can be found in <a href = "https://jmcauley.ucsd.edu/data/amazon/">Julian McAuley</a> as mentioned earlier. You can choose out oof 23 different datasets each representing a dataset of a product category of Amazon E-commerce.
+
 <br>
+
 - Step 1: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Required%20Libraries.py"> Importing Required Python Libraries </a>
 - Step 2: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Preparation.py"> Data Preparation</a>
 - Step 3: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Transformation.py"> Data Transformation</a>
