@@ -32,10 +32,36 @@ You can download the <a href = "https://github.com/TatevKaren/recurrent-neural-n
 Google Stock Price Development Graph (Training Data)
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Google Stock Price Development.png?raw=true"
-  width="600" height="300">
+  width="500" height="300">
+</p>
+<br>
+
+**Data Preprocessing**
+In order to prepare the data to train and test RNN model we have performed certain data preprocessing steps using Tensorflow, Keras, Pandas and Scikit-Learn libraries. Detailed info about data preprocessing can be found in <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
+<p align="left">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/data/Data transformation.png?raw=true"
+  width="380" height="220">
 </p>
 <br>
 <br>
+
+**Prediction Results**
+
+Comparing the real Google stock values and predicted Google stock values that are generated using RNN model, for the test period, the first month of 2021. RNN based on 5 LSTMs was able to properly predict all upward and downward trends as we see that the red line corresponding to the predicted stock prices follows the same pattern as the blue line which corresponds the real stock prices. 
+<br>
+<p align="left">
+  <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Prediction_Results.png?raw=true"
+  width="600" height="400">
+</p>
+<br>
+<br>
+
+<br>
+
+
+
+
+
 
 ## Application 2: Bitcoin Price Prediction
 
