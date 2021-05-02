@@ -14,7 +14,9 @@
 
 
 <br>
+
 ## Case Study with 2 applications
+
 In this case study we use Deep Learning, Recurrent Neural Networks with Long Short-Term Memory(LSTM) layers to predict the price of the a financial instrument. We apply it in two different cases: 
 
 - Google Stock Price Prediction
