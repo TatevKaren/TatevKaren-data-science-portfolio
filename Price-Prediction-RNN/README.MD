@@ -4,6 +4,8 @@
 **How:** Using the past 5y historical stock price data and Recurrent Neural Network(RNN) with 5 LSTM layers combined with Time Series Analysis to predict the upward and downward trends in the future stock prices.<br>
 
 
+
+[![](https://img.shields.io/badge/Deep__Learning-RNN-brightgreen)]()
 [![](https://img.shields.io/badge/Tensorflow-EE4C2C?logo=Tensorflow)]()
 [![](https://img.shields.io/badge/Keras-8a1111?logo=Keras)]()
-[![](https://img.shields.io/badge/Deep__Learning-RNN-brightgreen)]()
+
