@@ -35,11 +35,9 @@ We combine Time Series Analysis with RNN model with LSTM layers to predict the p
 What RNN does is that it translates the provided inputs to a machine readable vectors. Then the system processes each of this sequence of vectors one by one, moving from very first vector to the next one in a sequential order. While processing, the system passes the information through the hidden state (memory) to the next step of the sequence. Once the hidden state has collected all the existing information in the system until time period t, it is ready to move towards the next step and in this newer step the hidden step is classified as previous hidden state defined. Find more detailed description about eache of these processes in the <a href = "https://github.com/TatevKaren/recurrent-neural-network-stock-price-predicition-case-study/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
 <p align="left">
   <img src="https://miro.medium.com/max/1120/1*o-Cq5U8-tfa1_ve2Pf3nfg.gif?raw=true"
-  width="900" height="200">
+  width="700" height="200">
  </p>
 <br>
-
-<a href = "https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21"> Image Source </a>
 
 ## Long Short-Term Memory (LSTMs)
 
