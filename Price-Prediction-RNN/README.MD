@@ -8,4 +8,6 @@
 [![](https://img.shields.io/badge/Deep__Learning-RNN-brightgreen)]()
 [![](https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow)]()
 [![](https://img.shields.io/badge/Keras-3d3b3b?logo=Keras)]()
+[![](https://img.shields.io/badge/Python-Run_Code-blue?logo=Python)]()
+
 
