@@ -15,10 +15,11 @@
 
 <br>
 In this case study we use Deep Learning, Recurrent Neural Networks with Long Short-Term Memory(LSTM) layers to predict the price of the a financial instrument. We apply it in two different cases: 
+
 - Google Stock Price Prediction
 - Bitcoin Price Prediction
-- 
-LSTM is more sophisticated version of RNN which addresses the Vanishing Gradient Problem that RNNs often suffer from. This project is based on the past Google stock prices of the last 5 years corresponding the time period of 2016-2020 that is used to train the RNN model and then use it to predict the upward and downward trends in the stock price of Google on January 2021.
+
+We combine Time Series Analysis with RNN model with LSTM layers to predict the price using the financial products' historical data of last 5 years (2016-2020). LSTM is more sophisticated version of RNN which addresses the Vanishing Gradient Problem that RNNs often suffer from. 
 
 
 
