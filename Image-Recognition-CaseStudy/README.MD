@@ -60,7 +60,7 @@ This case study is based on CNN model and the <a href="https://github.com/TatevK
 <br><br><br>
 
 ## Model Evaluation
-Important evaluation steps, described in detail in <a href="https://github.com/TatevKaren/computer-vision-case-study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> CASE STUDY PAPER </a> , that help the CNN model to train and make accurate predictions such as:
+Important evaluation steps, described in detail in <a href="https://github.com/TatevKaren/computer-vision-case-study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper </a> , that help the CNN model to train and make accurate predictions such as:
 - Loss Functions for CNN (SoftMax and Cross-Entropy)
 - Loss Function Optimizers (SGD and Adam Optimizer)
 - Activation Functions (Rectifier and Sigmoid)
@@ -69,11 +69,11 @@ Important evaluation steps, described in detail in <a href="https://github.com/T
 ## Where to find details about DL libraries: Tensorflow & Keras 
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library.png?raw=true"
-  width="300" height="200">
+  width="500" height="200">
 </p>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library2.png?raw=true"
-  width="300" height="250">
+  width="500" height="250">
 </p>
 <p>
    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_img function.png?raw=true"
