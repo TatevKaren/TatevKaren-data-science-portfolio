@@ -13,6 +13,11 @@
 **How:** Using Places Rated Almanac data to find the rankings of the cities in United States based on a single combination of 9 rating variables using Principal Components Analysis (PCA) and Factor Analysis (FA). We also use Canonical Correlation Analysis (CCA) to get more insights in this data and investigate the correlation between two sets of rating variables (if existing).
 
 This Case Study in the field of Multivariate Statistics aims to find the rankings of the cities in United States based on a single combination of 9 rating variables using multivariate techniques: Principal Components Analysis (PCA) and Factor Analysis (FA). Moreover, we will also use Canonical Correlation Analysis (CCA) to get more insight of this data and investigate the correlation between two sets of rating variables (if existing). We aim to find the linear combination of rating variables that would maximally explain the variation of the data and rank the U.S. cities according to this new rating criterion.
+- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">Case Study Paper (pdf)</a>
+- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">R Code</a>
+
+<br> 
+Check out my blog post about <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">Fundamentals of Statistics for Data Scientists and Data Analysts</a> which conatins part of the methodology used in this work.
 <br>
 # Methodology Dimensionality Reduction 
 
@@ -50,9 +55,7 @@ Figures showing clear correlation between X and Y scores for the first canonical
 
 ##
 
-- <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">Case Study Paper (pdf)</a>
-- <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">R Code</a>
-<br> 
+
 
 
 <br>
