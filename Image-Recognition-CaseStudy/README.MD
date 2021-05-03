@@ -77,9 +77,9 @@ Important evaluation steps, described in detail in <a href="https://github.com/T
 </p>
 <p>
    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_img function.png?raw=true"
-  width="400" height="50">
+  width="400" height="80">
    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_to_array function.png?raw=true"
-  width="400" height="50">
+  width="400" height="80">
 </p>
 <br>
 Check out more information <a href = "https://keras.io/api/preprocessing/image/#imagedatagenerator-class"> here</a> 
