@@ -19,6 +19,7 @@ This Case Study in the field of Multivariate Statistics aims to find the ranking
 <br> 
 Check out my blog post about <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">Fundamentals of Statistics for Data Scientists and Data Analysts</a> which conatins part of the methodology used in this work.
 <br>
+
 # Methodology Dimensionality Reduction 
 
 ## Principal Component Analysis
