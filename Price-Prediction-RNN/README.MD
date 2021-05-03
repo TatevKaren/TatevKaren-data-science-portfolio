@@ -3,8 +3,6 @@
 **Why:**  To determine the future value of a stock or a financial instrument traded (publicly) on an exchange to gain significant profit or avoid losses given efficient-market hypothesis. Although exact price prediction is nearly impossible, but approximate price estimation is possible and can positively impact investor's buying strategy.<br><br>
 **How:** Using the past 5y historical stock price data and Recurrent Neural Network(RNN) with 5 LSTM layers combined with Time Series Analysis to predict the upward and downward trends in the future stock prices.<br>
 
-Read the blog article about this work <a href = "https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> on Medium</a>
-
 [![](https://img.shields.io/badge/Deep__Learning-RNN-brightgreen)]()
 [![](https://img.shields.io/badge/Python-Run_Code-blue?logo=Python)]()
 [![](https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow)]()
@@ -12,7 +10,10 @@ Read the blog article about this work <a href = "https://levelup.gitconnected.co
 [![](https://img.shields.io/badge/Price__Prediction-Google__Stock-yellow?logo=Google)]()
 [![](https://img.shields.io/badge/Price__Prediction-Bitcoin-yellow?logo=Bitcoin)]()
 
-This <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a> and <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Network_Case_Study.py">Python Code</a> include:<br><br>
+
+<br>Read the blog article about this work <a href = "https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> on Medium</a>
+
+<br>This <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a> and <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Network_Case_Study.py">Python Code</a> include:<br><br>
 
   - Recurrent Neural Networks(RNNs)
   - RNN Optimization Process 
