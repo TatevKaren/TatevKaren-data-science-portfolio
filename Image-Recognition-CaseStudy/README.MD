@@ -66,22 +66,22 @@ Important evaluation steps, described in detail in <a href="https://github.com/T
 - Activation Functions (Rectifier and Sigmoid)
 <br><br><br>
 
-## Deep Learning libraries: Tensorflow & Keras 
+## Where to find details about DL libraries: Tensorflow & Keras 
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library.png?raw=true"
-  width="500" height="350">
+  width="300" height="200">
 </p>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library2.png?raw=true"
-  width="600" height="340">
+  width="300" height="250">
 </p>
 <p>
    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_img function.png?raw=true"
-  width="600" height="80">
+  width="400" height="50">
    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_to_array function.png?raw=true"
-  width="600" height="80">
+  width="400" height="50">
 </p>
 <br>
-Source: https://keras.io/api/preprocessing/image/#imagedatagenerator-class
+Check out more information <a href = "https://keras.io/api/preprocessing/image/#imagedatagenerator-class"> here</a> 
 
 <br><br>
