@@ -24,3 +24,26 @@ The <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_r
  - Model compiling
  - Model fitting
  - Example prediction
+
+
+## Training Data
+We use training data consisting of 8000 images of dogs and cats to train the CNN model. Here are few examples of such images:
+<p>
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/dog.31.jpg?raw=true"
+  width="210" height="200">
+   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat.3.jpg?raw=true"
+  width="210" height="200">
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/dog.24.jpg?raw=true"
+  width="210" height="200">   
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat.12.jpg?raw=true"
+  width="210" height="200">    
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat.1.jpg?raw=true"
+  width="210" height="200">
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/dog.4.jpg?raw=true"
+  width="210" height="200">    
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat.8.jpg?raw=true"
+  width="210" height="200">
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/dog.45.jpg?raw=true"
+  width="210" height="200">  
+</p>
+<br><br>
