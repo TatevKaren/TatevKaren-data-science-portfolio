@@ -69,11 +69,11 @@ Important evaluation steps, described in detail in <a href="https://github.com/T
 ## Where to find details about DL libraries: Tensorflow & Keras 
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library.png?raw=true"
-  width="600" height="250">
+  width="500" height="250">
 </p>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library2.png?raw=true"
-  width="600" height="250">
+  width="500" height="270">
 </p>
 <p>
    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_img function.png?raw=true"
