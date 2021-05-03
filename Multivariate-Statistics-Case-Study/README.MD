@@ -1,6 +1,11 @@
 # Multivariate Statistics Case Study: US City Ranking
 
 [![](https://img.shields.io/badge/RStudio-Code__Run-blue?logo=RStudio)]()
+[![](https://img.shields.io/badge/Multivariate-Statistics-red)]()
+[![](https://img.shields.io/badge/Statistics-PCA-yellow)]()
+[![](https://img.shields.io/badge/Statistics-FA-green)]()
+[![](https://img.shields.io/badge/Statistics-CCA-purple)]()
+
 
 
 **Why:** To identify the top US cities with highest capital, urban growth and development for purposes for everyone looking to relocate to or within US for various purposes.
