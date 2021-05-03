@@ -37,6 +37,19 @@ Each variable has k of its own common factors, and these are related to the obse
 
 ## Canoniical Correlation Analysis
 
+Figures showing clear correlation between X and Y scores for the first canonical correlation which is not the case for the second factor, where one can observe some correlation but not significant. This shows that the first canonical correlation is important but second one is not.
+<p align="left">
+<img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot2.png?raw=true"
+  alt="Canonical Correlation Plot 2"
+  width="350" height="300">
+<img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot1.png?raw=true"
+  alt="Canonical Correlation Plot 1"
+  width="350" height="300">
+</p>
+
+
+##
+
 - <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">Case Study Paper (pdf)</a>
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">R Code</a>
 <br> 
