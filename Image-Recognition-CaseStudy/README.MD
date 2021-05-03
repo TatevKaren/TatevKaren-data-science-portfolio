@@ -49,13 +49,13 @@ We use training data consisting of 8000 images of dogs and cats to train the CNN
 # Methodology
 
 ## Convolutional Neural Networks (CNN)
-This case study is based on CNN model and the <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Network_Case_Study-2.pdf">CASE STUDY PAPER</a> includes detailed description of all the steps and processes that CNN's include such as:
+This case study is based on CNN model and the <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Network_Case_Study-2.pdf">Case Study Paper</a> includes detailed description of all the steps and processes that CNN's include such as:
 - Convolutional Operation
 - Pooling
 - Flattening
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cnn_summary.png?raw=true"
-  width="500" height="240">
+  width="500" height="200">
 </p>
 <br><br><br>
 
