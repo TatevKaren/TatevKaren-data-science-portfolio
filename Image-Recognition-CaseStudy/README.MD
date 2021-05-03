@@ -58,7 +58,7 @@ To test the accuracy of the trained model we picked a pair of images and used th
 </p>
 <br><br>
 
-After compiling the model the CNN model accurately classified the first picture to a dog class and the second picture to a cat class. Following is a snapshot of a Python outputwhere the predicted classes of all images in the test set are visible.
+After compiling the model the CNN model accurately classified the first picture to a dog class and the second picture to a cat class. Following is a snapshot of a Python output. In the lower part you can see the predicted class of the first image and the second image, respectively.
 <br><br>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Prediction_Snapshot.png?raw=true"
