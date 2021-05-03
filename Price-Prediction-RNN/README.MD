@@ -26,7 +26,7 @@ This <a href = "https://github.com/TatevKaren/recurrent-neural-network-pricing-m
 <br><br>
 
 
-<br><br><br>
+<br>
 
 # Case Study with 2 applications
 
