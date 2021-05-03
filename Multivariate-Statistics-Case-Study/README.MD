@@ -17,8 +17,14 @@ This Case Study in the field of Multivariate Statistics aims to find the ranking
 # Methodology Dimensionality Reduction 
 
 ## Principal Component Analysis
+Principal Component Analysis or PCA is a dimensionality reduction technique that is very often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller set that still contains most of the information or the variation in the original large dataset. Correspondingly, the eigenvalues of the covraiance matrix show the variance explained by a particular data field out of the total variance. The idea behind PCA is to create new (independent) variables, called Principal Components, that are a linear combination of the existing variable.
+
+Then using Elbow Rule or Kaiser Rule, you can determine the number of principal components that optimally summarize the data without losing too much information. It is also important to look at the proportion of total variation (PRTV) that is explained by each principal component to decide whether it is beneficial to include or to exclude it. 
 
 ## Factor Analysis
+Factor analysis or FA is another statistical method for dimensionality reduction. It is one of the most commonly used inter-dependency techniques and is used when the relevant set of variables shows a systematic inter-dependence and the objective is to find out the latent factors that create a commonality. A factor model is as a series of multiple regressions, predicting each of the features variables from the values of the unobservable common factors.
+
+Each variable has k of its own common factors, and these are related to the observations via factor loading matrix for a single observation as follows: In factor analysis, the factors are calculated to maximize between-group variance while minimizing in-group variance. They are factors because they group the underlying variables. Unlike the PCA, in FA the data needs to be normalized, given that FA assumption that the dataset follows Normal Distribution.
 
 ## Canoniical Correlation Analysis
 
