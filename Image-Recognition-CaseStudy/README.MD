@@ -26,9 +26,12 @@ The <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_r
  - Example prediction
 
 <br>
+
 ## Training Data
+
 <br>
-We use training data consisting of 8000 images of dogs and cats to train the CNN model. Here are few examples of such images:<br>
+
+We use training data consisting of 8000 images of dogs and cats to train the CNN model. Here are few examples of such images:<br><br>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/dog.31.jpg?raw=true"
   width="180" height="180">
