@@ -2,7 +2,7 @@
 [![](https://img.shields.io/badge/Python-Run_Code-blue?logo=Python)]()
 [![](https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow)]()
 [![](https://img.shields.io/badge/Keras-3d3b3b?logo=Keras)]()
-[![](https://img.shields.io/badge/Image__Recognition-Cat-Dog-Images-yellow)]()
+[![](https://img.shields.io/badge/Image__Recognition-Cat_Dog_Images-yellow)]()
 
 
 # Image Recognition with Convolutional Neural Networks
