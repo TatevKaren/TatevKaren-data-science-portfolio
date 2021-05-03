@@ -61,17 +61,14 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Network_Case_Study.py"> Python Code</a>
 <br><br>
 
-
 ## Case Study: Image Recognition with Convolutional Neural Networks
 
 **Why:** To identify the class which an image belongs a dog image class or a cat image class.<br><br>
 **How:** Using 8K images of dogs and cats to train Convolutional Neural Network(CNN) to predict whether the input image is a dog image or a cat image.<br>
 
-
 - <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
 - <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study">Github Repo</a> 
 - <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Network_Case_Study.py"> Python Code</a>
-
 <br><br>
 
 
