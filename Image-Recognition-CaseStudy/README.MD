@@ -45,6 +45,28 @@ We use training data consisting of 8000 images of dogs and cats to train the CNN
 </p>
 <br><br>
 
+## Model Application and Evaluation
+To test the accuracy of the trained model we picked a pair of images and used the trained model to predict the class of each of these pair of two images, one of whiich is a dog image and the other one is a cate image. We would like to know the probability of each of this images belonging to a Cat class and Dog class. This will help us to evaluate the trained and tested CNN model to observe to which class does the model classify the following pictures:
+<br>
+<p align="left">
+  <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat_or_dog_1.jpg?raw=true"
+  width="300" height="200">
+</p>
+<p>
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat_or_dog_2.jpg?raw=true"
+  width="300" height="200">
+</p>
+<br><br>
+
+After compiling the model the CNN model accurately classified the first picture to a dog class and the second picture to a cat class. Following is a snapshot of a Python outputwhere the predicted classes of all images in the test set are visible.
+<br><br>
+<p>
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Prediction_Snapshot.png?raw=true"
+  width="1100" height="550">
+</p>
+
+
+
 
 # Methodology
 
