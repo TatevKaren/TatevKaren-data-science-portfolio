@@ -44,3 +44,44 @@ We use training data consisting of 8000 images of dogs and cats to train the CNN
   width="180" height="180">     
 </p>
 <br><br>
+
+
+# Methodology
+
+## Convolutional Neural Networks (CNN)
+This case study is based on CNN model and the <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Network_Case_Study-2.pdf">CASE STUDY PAPER</a> includes detailed description of all the steps and processes that CNN's include such as:
+- Convolutional Operation
+- Pooling
+- Flattening
+<p>
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/cnn_summary.png?raw=true"
+  width="500" height="240">
+</p>
+<br><br><br>
+
+## Model Evaluation
+Important evaluation steps, described in detail in <a href="https://github.com/TatevKaren/computer-vision-case-study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> CASE STUDY PAPER </a> , that help the CNN model to train and make accurate predictions such as:
+- Loss Functions for CNN (SoftMax and Cross-Entropy)
+- Loss Function Optimizers (SGD and Adam Optimizer)
+- Activation Functions (Rectifier and Sigmoid)
+<br><br><br>
+
+## Deep Learning libraries: Tensorflow & Keras 
+<p>
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library.png?raw=true"
+  width="500" height="350">
+</p>
+<p>
+    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library2.png?raw=true"
+  width="600" height="340">
+</p>
+<p>
+   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_img function.png?raw=true"
+  width="600" height="80">
+   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_to_array function.png?raw=true"
+  width="600" height="80">
+</p>
+<br>
+Source: https://keras.io/api/preprocessing/image/#imagedatagenerator-class
+
+<br><br>
