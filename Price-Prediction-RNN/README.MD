@@ -75,7 +75,7 @@ The same method can be applied on different financial instruments such as Bitcoi
 In order to prepare the data to train and test RNN model we have performed certain data preprocessing steps using Tensorflow, Keras, Pandas and Scikit-Learn libraries. Detailed info about data preprocessing can be found in <a href = "https://tatev-aslanyan.medium.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> Case Study Blog</a>
 <p align="left">
   <img src="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/bitcoin_data/Bitcoin_data_transformation.png?raw=true"
-  width="550" height="200">
+  width="550" height="180">
 </p>
 <br>
 <br>
