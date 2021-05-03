@@ -31,8 +31,6 @@ We use training data consisting of 8000 images of dogs and cats to train the CNN
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/dog.31.jpg?raw=true"
   width="180" height="180">
-   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat.3.jpg?raw=true"
-  width="180" height="180">
   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/dog.24.jpg?raw=true"
   width="180" height="180">   
   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/data/cat.12.jpg?raw=true"
