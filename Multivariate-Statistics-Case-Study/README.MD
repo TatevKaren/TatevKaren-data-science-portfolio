@@ -41,10 +41,10 @@ Figures showing clear correlation between X and Y scores for the first canonical
 <p align="left">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot2.png?raw=true"
   alt="Canonical Correlation Plot 2"
-  width="350" height="300">
+  width="400" height="350">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot1.png?raw=true"
   alt="Canonical Correlation Plot 1"
-  width="350" height="300">
+  width="400" height="350">
 </p>
 
 
