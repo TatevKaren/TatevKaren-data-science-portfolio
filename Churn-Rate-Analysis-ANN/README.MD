@@ -34,7 +34,19 @@ The <a href ="https://github.com/TatevKaren/artificial-neural-network-business_c
  - Model fitting
  - Example prediction
 
+## Data (Bank Customer Data)
+To train the ANN model we use a training data of randomly selected 10K bank customers. The data consists of teh following varaible per bank customer:
 
+- CustomerId Surname
+- Credit Score
+- Geography 
+- Gender
+- Age
+- Tenure Balance
+- Num Of Products at bank
+- Has a Credit Card (binary variable)
+- Is Active Member
+- EstimatedSalary 
 
 # Methodology
 
