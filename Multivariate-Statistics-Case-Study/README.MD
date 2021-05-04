@@ -74,10 +74,11 @@ Figures showing clear correlation between X and Y scores for the first canonical
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/CCA_plot1.png?raw=true"
   alt="Canonical Correlation Plot 1"
   width="400" height="350">
-</p>
+</p> 
 <br><br>
 
 # Case Study Results: US city rankings
+Based on the analysis, the US cities have been ranked as follows:
 <p align="left">
 <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multivariate_CaseStudy_Results.png?raw=true?"  width="400" height="600">
 </p>
