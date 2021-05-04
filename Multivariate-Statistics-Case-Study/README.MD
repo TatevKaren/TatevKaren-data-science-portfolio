@@ -34,7 +34,7 @@ Principal Component Analysis or PCA is a dimensionality reduction technique that
   alt="Principle Component Analysis"
   width="450" height="350"></p>
   
-Above you can see the biplot where on X-axes and on Y-axes the first and the secont Principal Components, respectively, are visualized. WE have scaled the data and from the plot we can observe that Crime and Education have the smallest margins and the remaining variables show substantial variations. 
+Above you can see the biplot where on X-axes and on Y-axes the first and the secont Principal Components, respectively, are visualized. We have scaled the data and from the plot we can observe that Crime and Education have the smallest margins and the remaining variables show substantial variations. 
   
 Then using Elbow Rule or Kaiser Rule, you can determine the number of principal components that optimally summarize the data without losing too much information. It is also important to look at the proportion of total variation (PRTV) that is explained by each principal component to decide whether it is beneficial to include or to exclude it. 
 <p align="center">
