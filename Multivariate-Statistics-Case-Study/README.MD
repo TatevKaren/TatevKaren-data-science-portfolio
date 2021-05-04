@@ -20,6 +20,7 @@ This Case Study in the field of Multivariate Statistics aims to find the ranking
 Check out my blog post about <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">Fundamentals of Statistics for Data Scientists and Data Analysts in Towards Data Science</a> which conatins part of the methodology used in this work.
 <br>
 <br><br>
+
 # Data (Places Rated Almanac)
 The data “Places Rated Almanac” (Boyer and Savageau, 1985) contains 9 variables constructed for 329 metropolitan areas of the U.S. These composite variables are Climate, Housing Cost, Health care, Crime, Transportation, Education, Arts, Recreation and Personal Economy. More information about the latest snapshot of this data can be found <a href = "https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/naappd/places-rated-almanac-your-guide-to-finding-the-best-places-to-live-in-america-0">here</a>.
 
@@ -48,7 +49,9 @@ Then using Elbow Rule or Kaiser Rule, you can determine the number of principal 
 First three principal components explain 63.10% of the total variation in data. Applying the ”elbow rule” it can be seen that one can optimally retain 3 components.  
 <br>
 <br>
+
 ## Factor Analysis
+
 Factor analysis or FA is another statistical method for dimensionality reduction. It is one of the most commonly used inter-dependency techniques and is used when the relevant set of variables shows a systematic inter-dependence and the objective is to find out the latent factors that create a commonality. A factor model is as a series of multiple regressions, predicting each of the features variables from the values of the unobservable common factors.
 
 Each variable has k of its own common factors, and these are related to the observations via factor loading matrix for a single observation as follows: In factor analysis, the factors are calculated to maximize between-group variance while minimizing in-group variance. They are factors because they group the underlying variables. Unlike the PCA, in FA the data needs to be normalized, given that FA assumption that the dataset follows Normal Distribution.
