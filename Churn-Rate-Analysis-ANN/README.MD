@@ -50,8 +50,25 @@ The main difference between such regression and Neural Network is that, in the c
   alt=""width="500" height="250">
 </p>
 
+<br>
+
+## Model Evaluation
+Important evaluation steps, described in detail in the Case Study Paper, that help the ANN model to train and make accurate predictions such as:
+- Loss Functions for ANN (Binary Cross Entroopy)
+- Loss Function Optimizers (Adam Optimizer)
+- Activation Functions (Rectifier and Sigmoid)
+
+The combination of the Rectifier and Sigmoid activation functions is quite popular and this exact combination will be used in this case study as well, given that our goal is to estimate the probability that the customer will leave the bank. Given that the output variable is binary we use cost function Binary Cross Entropy. More specifically, the following model settings have been used to train the ANN model.
+
+- Activation function for Hidden Layer: Rectifier
+- Activation function for Output Layer: Sigmoid
+- Optimization method: Adam Optimizer
+- Cost function: Binary Cross Entropy
+- Number of epochs: 100
+- Batch size: 25
 
 
+<br>
 
 
 
