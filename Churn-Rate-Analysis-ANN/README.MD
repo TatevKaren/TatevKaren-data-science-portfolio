@@ -82,7 +82,7 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
 ## Prediction in Python
 
 <p align="left">
-<img src="ANN_Case_Study_Sample_Output_1.png?raw=true"
+<img src="https://raw.githubusercontent.com/TatevKaren/artificial-neural-network-business_case_study/main/ANN_Case_Study_Sample_Output_1.png?raw=true"
   alt=""width="600" height="250">
 </p>
 
