@@ -51,7 +51,7 @@ We can also look at the percentage of variation explained by each number of comp
 <p align="center">
 <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/PCA_results_PVE.png?raw=true"
   alt="Principle Component Analysis: Elbow Rule % Variation Explained"
-  width="400" height="200">
+  width="400" height="180">
 </p>
 
 First three principal components explain 63.10% of the total variation in data. Applying the ”elbow rule” it can be seen that one can optimally retain 3 components.  
