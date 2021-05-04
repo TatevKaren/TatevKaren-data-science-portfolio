@@ -17,11 +17,7 @@ This Case Study in the field of Multivariate Statistics aims to find the ranking
 - <a href= "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStat_PCA_FA_CCA_code.R">R Code</a>
 
 <br> 
-Check out my blog post about <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">Fundamentals of Statistics for Data Scientists and Data Analysts</a> which conatins part of the methodology used in this work.
-<p align="center">
-<img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Statistics_Blog_Post.png?raw=true"
-  width="250" height="250">
-</p>
+Check out my blog post about <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">Fundamentals of Statistics for Data Scientists and Data Analysts in Towards Data Science</a> which conatins part of the methodology used in this work.
 <br>
 
 # Methodology Dimensionality Reduction 
