@@ -29,7 +29,7 @@ The data “Places Rated Almanac” (Boyer and Savageau, 1985) contains 9 variab
 
 # Methodology Dimensionality Reduction 
 Like mentioned earlier, to find the rankings of the cities in United States based on a single combination of 9 rating variables, we use the following multivariate techniques: Principal Components Analysis (PCA) and Factor Analysis (FA). Moreover, we will also use Canonical Correlation Analysis (CCA) to get more insight of this data and investigate the correlation between two sets of rating variables (if existing).
-<br>
+<br><br>
 
 ## Principal Component Analysis
 Principal Component Analysis or PCA is a dimensionality reduction technique that is very often used to reduce the dimensionality of large data sets, by transforming a large set of variables into a smaller set that still contains most of the information or the variation in the original large dataset. Correspondingly, the eigenvalues of the covraiance matrix show the variance explained by a particular data field out of the total variance. The idea behind PCA is to create new (independent) variables, called Principal Components, that are a linear combination of the existing variable.
@@ -54,7 +54,7 @@ First three principal components explain 63.10% of the total variation in data. 
 
 Factor analysis or FA is another statistical method for dimensionality reduction. It is one of the most commonly used inter-dependency techniques and is used when the relevant set of variables shows a systematic inter-dependence and the objective is to find out the latent factors that create a commonality. A factor model is as a series of multiple regressions, predicting each of the features variables from the values of the unobservable common factors.
 
-Each variable has k of its own common factors, and these are related to the observations via factor loading matrix for a single observation as follows: In factor analysis, the factors are calculated to maximize between-group variance while minimizing in-group variance. They are factors because they group the underlying variables. Unlike the PCA, in FA the data needs to be normalized, given that FA assumption that the dataset follows Normal Distribution.
+Each variable has k of its own common factors, and these are related to the observations via factor loading matrix for a single observation as follows: In factor analysis, the factors are calculated to maximize between-group variance while minimizing in-group variance. They are factors because they group the underlying variables. Unlike the PCA, in FA the data needs to be normalized, given that FA assumption that the dataset follows Normal Distribution. <br><br>
 
 ## Canoniical Correlation Analysis
 
