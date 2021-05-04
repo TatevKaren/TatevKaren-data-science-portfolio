@@ -44,13 +44,14 @@ Assuming that, if a user likes a certain movie, then she may like similar movies
 </p> 
                          
                          
-                         
-                         
+## Model Evaluation
+The model is evaluated for different number of neighbors N, N= 5,10,20,30,50 and each time we calculate the precision of the model.                        
 <p align="center">
 <img src="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/blob/main/Movie_Recommender/Recommender%20Model%20Evaluation.png?raw=true"
   width=700" height="800">
 </p> 
-                              
+ 
+## Testing the model for a sample movie 
 <p align="center">
 <img src="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/blob/main/Movie_Recommender/Recommender%20Model%20Sample%20Output.png?raw=true"
   width=600" height="200">
