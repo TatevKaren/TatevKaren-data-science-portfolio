@@ -44,7 +44,7 @@ Then using Elbow Rule or Kaiser Rule, you can determine the number of principal 
 <p align="center">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/Elbow_rule_%25varc_explained.png?raw=true"
   alt="Principle Component Analysis: Elbow Rule % Variation Explained"
-  width="450" height="350">
+  width="450" height="270">
 </p>
 
 We can also look at the percentage of variation explained by each number of components.
