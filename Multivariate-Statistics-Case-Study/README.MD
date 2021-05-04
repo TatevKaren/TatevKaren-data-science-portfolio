@@ -51,7 +51,7 @@ We can also look at the percentage of variation explained by each number of comp
 <p align="center">
 <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/PCA_results_PVE.png?raw=true"
   alt="Principle Component Analysis: Elbow Rule % Variation Explained"
-  width="400" height="180">
+  width="400" height="200">
 </p>
 
 First three principal components explain 63.10% of the total variation in data. Applying the ”elbow rule” it can be seen that one can optimally retain 3 components.  
@@ -79,7 +79,7 @@ Figures showing clear correlation between X and Y scores for the first canonical
 
 # Case Study Results: US city rankings
 Based on the analysis, the US cities have been ranked as presented in the table below, where as we can see San Francisco is the most popular city in US and New York is the second most popular city, whereas Gadsden is the lest favorite city.
-<p align="left">
+<p align="center">
 <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multivariate%20_CaseStudy_Results2.png?raw=true?"  width="500" height="600">
 </p>
 
