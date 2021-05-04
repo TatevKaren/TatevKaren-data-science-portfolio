@@ -12,7 +12,7 @@
 
 
 <br>
-<p>
+<p align="center">
     <img src="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Churning_Customers.png?raw=true"
-  width=800" height="500">
+  width=699" height="400">
 </p> 
