@@ -83,7 +83,7 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/TatevKaren/artificial-neural-network-business_case_study/main/ANN_Case_Study_Sample_Output_1.png?raw=true"
-  alt=""width="600" height="250">
+  alt=""width="800" height="400">
 </p>
 
 
