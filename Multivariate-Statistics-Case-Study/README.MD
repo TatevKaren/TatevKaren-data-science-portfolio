@@ -20,6 +20,11 @@ This Case Study in the field of Multivariate Statistics aims to find the ranking
 Check out my blog post about <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">Fundamentals of Statistics for Data Scientists and Data Analysts in Towards Data Science</a> which conatins part of the methodology used in this work.
 <br>
 
+# Data (Places Rated Almanac)
+The data “Places Rated Almanac” (Boyer and Savageau, 1985) contains 9 variables constructed for 329 metropolitan areas of the U.S. These composite variables are Climate, Housing Cost, Health care, Crime, Transportation, Education, Arts, Recreation and Personal Economy. More information about the latest snapshot of this data can be found <a href = "https://www.americansforthearts.org/by-program/reports-and-data/legislation-policy/naappd/places-rated-almanac-your-guide-to-finding-the-best-places-to-live-in-america-0">here</a>.
+
+
+
 # Methodology Dimensionality Reduction 
 
 ## Principal Component Analysis
@@ -28,12 +33,16 @@ Principal Component Analysis or PCA is a dimensionality reduction technique that
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/PCA_plot.png?raw=true"
   alt="Principle Component Analysis"
   width="450" height="350"></p>
+  
+Above you can see the biplot where on X-axes and on Y-axes the first and the secont Principal Components, respectively, are visualized. WE have scaled the data and from the plot we can observe that Crime and Education have the smallest margins and the remaining variables show substantial variations. 
+  
 Then using Elbow Rule or Kaiser Rule, you can determine the number of principal components that optimally summarize the data without losing too much information. It is also important to look at the proportion of total variation (PRTV) that is explained by each principal component to decide whether it is beneficial to include or to exclude it. 
 <p align="center">
 <img src="https://github.com/TatevKaren/Multivariate-Statistics/blob/main/Elbow_rule_%25varc_explained.png?raw=true"
   alt="Principle Component Analysis: Elbow Rule % Variation Explained"
   width="450" height="350">
 </p>
+First three principal components explain 63.10% of the total variation in data. Applying the ”elbow rule” it can be seen that one can optimally retain 3 components.  
 <br>
 
 ## Factor Analysis
