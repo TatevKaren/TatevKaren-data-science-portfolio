@@ -24,3 +24,22 @@ The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/
 - Model Evaluation (Cosine Similarity)
 
 
+# Methodology
+<p align="center">
+    <img src="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/blob/main/Movie_Recommender/Movie%20Similarity.png?raw=true"
+  width=300" height="300">
+</p> 
+<p align="center">
+<img src="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/blob/main/Movie_Recommender/Recommender%20Model%20Evaluation.png?raw=true"
+  width=700" height="800">
+</p> 
+                              
+<p align="center">
+<img src="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/blob/main/Movie_Recommender/Recommender%20Model%20Sample%20Output.png?raw=true"
+  width=600" height="200">
+</p> 
+
+
+
+
+
