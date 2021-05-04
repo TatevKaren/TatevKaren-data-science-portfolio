@@ -27,7 +27,7 @@ The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/
 # Methodology
 <p align="center">
     <img src="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/blob/main/Movie_Recommender/Movie%20Similarity.png?raw=true"
-  width=400" height="200">
+  width=450" height="250">
 </p> 
 <p align="center">
 <img src="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/blob/main/Movie_Recommender/Recommender%20Model%20Evaluation.png?raw=true"
