@@ -79,6 +79,13 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
 - Number of epochs: 100
 - Batch size: 25
 
+## Prediction in Python
+
+<p align="left">
+<img src="ANN_Case_Study_Sample_Output_1.png?raw=true"
+  alt=""width="600" height="250">
+</p>
+
 
 <br>
 
