@@ -78,9 +78,9 @@ Figures showing clear correlation between X and Y scores for the first canonical
 <br><br>
 
 # Case Study Results: US city rankings
-Based on the analysis, the US cities have been ranked as follows:
+Based on the analysis, the US cities have been ranked as presented in the table below, where as we can see San Francisco is the most popular city in US and New York is the second most popular city, whereas Gadsden is the lest favorite city.
 <p align="left">
-<img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multivariate_CaseStudy_Results.png?raw=true?"  width="400" height="600">
+<img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Multivariate%20_CaseStudy_Results2.png?raw=true?"  width="500" height="600">
 </p>
 
 
