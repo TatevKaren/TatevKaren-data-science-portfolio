@@ -11,7 +11,16 @@
   width=699" height="400">
 </p> 
                          
-<br>
+## Case Study 
+In this case study we build a simple movie Recommender Systems that generates top N movie recommendations when a single input movie is provided.
 
-- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
-- <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
+The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a> and <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> contain the followin information<br>
+
+- Data processing
+- Descriptive Statistics
+- Collaborative Filtering (User-User and Item-Item)
+- Item-based Collaborative Filtering
+- K-Nearest Neighbors
+- Model Evaluation (Cosine Similarity)
+
+
