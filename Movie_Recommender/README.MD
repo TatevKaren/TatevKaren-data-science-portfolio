@@ -35,7 +35,9 @@
     <img src="https://miro.medium.com/max/1132/1*N0-ikjPv4RUVvS-6KCgLPg.jpeg?raw=true"
   width=699" height="400">
 </p> 
-                         
+ 
+<br> 
+
 ## Case Study 
 In this case study we build a simple movie Recommender Systems that generates top N movie recommendations when a single input movie is provided.
 
@@ -93,5 +95,6 @@ The model is evaluated for different number of neighbors N, N= 5,10,20,30,50 and
 
 
 
+<br><br>
 
 
