@@ -39,7 +39,7 @@
 <br> 
 
 ## Case Study 
-In this case study we build a simple movie Recommender Systems that generates top N movie recommendations when a single input movie is provided.
+In this case study we build a simple movie Recommender System that generates top N movie recommendations when a single input movie is provided.
 
 The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a> and <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> contain the followin information<br>
 
