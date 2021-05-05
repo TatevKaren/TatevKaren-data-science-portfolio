@@ -1,8 +1,4 @@
 <br><br>
-[![](https://img.shields.io/badge/Deep__Learning-ANN-red)]()
-[![](https://img.shields.io/badge/Python-Run_Code-blue?logo=Python)]()
-[![](https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow)]()
-[![](https://img.shields.io/badge/Keras-9cf?logo=Keras)]()
 <p align="center">
   
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
@@ -12,7 +8,7 @@
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
         <img src="https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow"></a>
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
-        <img src="https://img.shields.io/badge/Keras-9cf?logo=Keras"></a>
+        <img src="https://img.shields.io/badge/Keras-3d3b3b?logo=Keras"></a>
 </p>
 <br> <br>
 # Customer Churn Rate Analysis with Artificial Neural Networks
