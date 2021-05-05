@@ -7,7 +7,7 @@
    <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
         <img src="https://img.shields.io/badge/Regressions-OLS_MM-blue?logo=Bitcoin"></a>
    <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
-        <img src="https://img.shields.io/badge/R-Run_Code-lightblue?logo=RStudio"></a>
+        <img src="https://img.shields.io/badge/-Run_Code-lightblue?logo=RStudio"></a>
    <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
         <img src="https://img.shields.io/badge/Missing_Data-Single_Imputation-important"></a>  
     <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
