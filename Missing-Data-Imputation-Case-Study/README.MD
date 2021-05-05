@@ -65,11 +65,23 @@ In this analysis we use the Boston housing data introduced by Harrison and Rubin
 
 <br>
 
+## Regression Model
+<p align="center">
+    <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Missing_Data_Regression_Model.png?raw=true"
+  width=750" height="370">
+</p> 
+
+<br>
 
 ## Model Evaluation
+To evaluate the mode we use **Mean Squared Error (MSE)**, **Bias**, 
 
 
+<br>
+## Case Study Findings
+We have seen that increasing amount of missingness in data leads to an increase in mean MSE for both OLS and MM estimation results. Moreover,we observe that mean bias is 0 in OLS regression for all missingness rates which is not the case in MM estimation.
 
+<br>
 
 
 
