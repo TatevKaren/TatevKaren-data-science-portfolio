@@ -80,10 +80,11 @@ To evaluate the mode we use **Mean Squared Error (MSE)**, **Bias**,
 <br>
 
 ## Case Study Findings
-We have seen that increasing amount of missingness in data leads to an increase in mean MSE for both OLS and MM estimation results. Moreover,we observe that mean bias is 0 in OLS regression for all missingness rates which is not the case in MM estimation. What we also find is that when missingness is 10% the mean MSE and mean standard errors are very close to the their true values for both single and multiple imputations. However, when there is more than 10% missingness in the data mean SE is lower than the true mean SE for single imputation case when n = 100 while in MI the SE estimates are close to the true one for both low and high amount of missingness. 
+In this simulation study based on Boston Housing data showed that when data is MCAR both OLS and MM estimates are unbiased. Both SI and MI lead to accurate results when missingness proportion is small(e.g. 10%), but since MI requires much more computation time, SI is preferred for this reason. When missingness amount is larger SI underestimates the mean standard errors in OLS and in MM, while MI performs well therefore is preferred. 
 
-So, when comparing the mean SE’s for single and multiple imputation for n = 100 case we observe that for OLS the values in case λ = 10%, SI and MI perform equally well but when = 20% or larger, the mean standard errors are much smaller then the true value in SI and almost the same as TRUE value in MI, even for 50% of missingness. We also see that MM doesn’t perform better than OLS in terms of bias and estimation of standard errors.
+When sample size is larger SI leads to accurate results for OLS even when 20% of data is missing. MAR data leads to biased estimates for small samples especially when single imputation has been used and biased decreases when MI is used instead, here also OLS outperforms MM. When n is large and MI is used OLS estimates are unbiased and accrate unless data contains 50% missing values. 
 
+Under MNAR both SI and MI performs poorly for both OLS and MM except when only small amount of data is missing. When n is large MI leads to accurate and almost unbiased OLS estimates. So, SI performs well in terms of computation time for MAR and MCAR data mechanism for OLS regression when small amount of data is missing otherwise MI outperforms SI. However, when data is MNAR only for small missingness and large sample size MI leads to accurate results for OLS. Finally, we found that significant amount of outliers (25%) effect the OLS estimation results significantly for both SI and MI but when for MCAR and MAR data MI leads to accurate results for MM estimation.
 <br>
 
 
