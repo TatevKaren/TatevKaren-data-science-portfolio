@@ -43,6 +43,15 @@ The <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-scien
 - Impact oof Missing Data on Robust MM regression results
 
 
+<br>
+
+## Data
+In this analysis we use the Boston housing data introduced by Harrison and Rubinfeld (1978) later corrected by Gilley and Kelley Pace (1996) that can be found <a href = "https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html">here</a>.
+
+<br>
+
+
+
 
 
 
