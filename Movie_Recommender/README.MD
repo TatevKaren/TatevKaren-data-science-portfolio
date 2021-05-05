@@ -5,7 +5,7 @@
    <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
         <img src="https://img.shields.io/badge/Case_Study-Recommender_System-red"></a>
    <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
-        <img src="https://img.shields.io/badge/Recommender_System-Collaborative_Filtering-yellow"></a>
+        <img src="https://img.shields.io/badge/Algorithm-Collaborative_Filtering-yellow"></a>
         
    <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
         <img src="https://img.shields.io/badge/Data-Cross_Sectional-green"></a> 
