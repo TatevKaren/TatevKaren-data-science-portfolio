@@ -74,7 +74,14 @@ In this analysis we use the Boston housing data introduced by Harrison and Rubin
 <br>
 
 ## Model Evaluation
-To evaluate the mode we use **Mean Squared Error (MSE)**, **Bias**, 
+To evaluate the mode we use **Mean Squared Error (MSE)**, **Bias**, **Mean Standard Error**, **CR** based on 95% Confidence Intervals or stated differently, a combined performance measure for both coefficient estimates and standard errors.
+
+Following table shows sample regression output.
+
+
+Following table shows sample Single Imputation output.
+
+
 
 
 <br>
