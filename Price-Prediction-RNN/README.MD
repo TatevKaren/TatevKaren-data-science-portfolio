@@ -4,9 +4,9 @@
    <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
         <img src="https://img.shields.io/badge/Case_Study-Price_Prediction-red"></a>
    <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
-        <img src="https://img.shields.io/badge/Price__Prediction-Google__Stock-yellow?logo=Google"></a>
+        <img src="https://img.shields.io/badge/Data-Google_Stock_Price-yellow?logo=Google"></a>
    <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
-        <img src="https://img.shields.io/badge/Price__Prediction-Bitcoin-yellow?logo=Bitcoin"></a>
+        <img src="https://img.shields.io/badge/Data-Bitcoin_Price-yellow?logo=Bitcoin"></a>
         
    <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
         <img src="https://img.shields.io/badge/Deep__Learning-RNN-brightgreen"></a>
