@@ -2,6 +2,10 @@
 <p align="center">
    
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
+        <img src="https://img.shields.io/badge/Case_Study-Churn_Rate_Analysis-red"></a>
+   <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
+        <img src="https://img.shields.io/badge/Data-Cross_Sectional-green"></a>
+   <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
         <img src="https://img.shields.io/badge/Deep__Learning-ANN-yellow"></a>
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
         <img src="https://img.shields.io/badge/Python-Run_Code-blue?logo=Python"></a>
@@ -9,10 +13,6 @@
         <img src="https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow"></a>
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
         <img src="https://img.shields.io/badge/Keras-3d3b3b?logo=Keras"></a>
-   <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
-        <img src="https://img.shields.io/badge/Case_Study-Churn_Rate_Analysis-red"></a>
-   <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
-        <img src="https://img.shields.io/badge/Data-Cross_Sectional-green"></a>
         
 </p>
 <br> 
