@@ -35,7 +35,7 @@
 ## Case Study 
 In this Case Study we explore various missing data mechanisms such as MCAR, MNAR, and MAR. How missing data can be detected and additionally, we investigate the impact of these different type of missing data on the estimation results, where we use Ordinary Least Squares(OLS) and Method of Moments(MM) estimation as examples of estimation techniques.     
 
-The <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> Case Study Paper</a> Case Study Paper </a> and <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Single_vs_Multiple_Imputation.R">R Code</a> contain the following information<br>
+The <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> Case Study Paper </a> and <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Single_vs_Multiple_Imputation.R">R Code</a> contain the following information<br>
 - Missing data detection
 - Missing data mechanisms (MNAR, MCAR, MAR)
 - Missing data imputation techniques (Single Imputation, Multiple Imputation)
