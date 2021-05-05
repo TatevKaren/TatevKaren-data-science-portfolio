@@ -5,7 +5,7 @@
    <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
         <img src="https://img.shields.io/badge/Data-Cross_Sectional-green"></a>
    <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
-        <img src="https://img.shields.io/badge/Regressions-OLS_MM-blue?logo=Bitcoin"></a>
+        <img src="https://img.shields.io/badge/Regressions-OLS_MM-blue"></a>
    <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
         <img src="https://img.shields.io/badge/-Run_Code-3d3b3b?logo=RStudio"></a>
    <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
