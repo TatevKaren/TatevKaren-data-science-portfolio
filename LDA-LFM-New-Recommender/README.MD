@@ -16,7 +16,22 @@
  [![](https://img.shields.io/badge/Tensorflow-EE4C2C?logo=Tensorflow)]()
  [![](https://img.shields.io/badge/Python-Run__Step__by__Step-blue?logo=Python)]()
 
+<p align="center">
+   
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Recommender%20System-LDA--LFM-gree"></a>
+           <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Data__Cross-Sectional-green"></a> 
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Amazon.com-23__datasets-red?logo=Amazon"></a> 
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Tensorflow-EE4C2C?logo=Tensorflow"></a>
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Python-Run__Step__by__Step-blue?logo=Python"></a>
 
+        
+</p>
+<br>
  
  ## Abstract
 The increased popularity of e-commerce has led to an increase in both the number of onlineconsumers and products.  Deciding which product to buy from a large variety of productsmight be overwhelming.  Recommender systems (RS) are able to solve this problem of in-formation overload and help online buyers,  by suggesting them the right products to buy,resulting in higher customer satisfaction and customer loyalty.  Correspondingly, companiesget more opportunities to introduce new products and suggest them to the right customers,resulting in increased sales.  In order to make good recommendations, we must predict howa customer will respond to unseen product, based on the user feedback that often comes inthe form of a rating and review text.  However, traditional RS often use only the rating data,while ignoring the rich source of information present in users’ textual reviews and other typesof data.  Moreover, they are solely applicable to small datasets and unable to handle datasetswith millions of reviews.  
