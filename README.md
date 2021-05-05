@@ -118,7 +118,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study in Advanced Marketing Models (Missing Data Mechanisms)
 
-**Why:** Most of the statistical methods and algorithms require complete data and usig data with missing observations or entires can produce unreliable results.Therefore, it is important to know the reason for missingness in the data, it’s effect on the analysis and how these missiing data entir3es can be imputed. <br><br>
+**Why:** Most of the statistical methods and algorithms require complete data and using data with missing observations or entires can produce unreliable results.Therefore, it is important to know the reason for missingness in the data, it’s effect on the analysis and how these missiing data entir3es can be imputed. <br><br>
 **How:** Using Boston housing data with a model-based simulation to perform Ordinary Least Squares (OLS) and Method of Moments (MM) estimations when applying Single Imputation (SI) or Multiple Imputation (MI) imputation techniques while artificially adding missing data with 3 different missing data mechanisms Missing At Random(MAR), Missing Completely At Random(MCAR) and Missing Not At Random(MNAR).<br>
 
 
