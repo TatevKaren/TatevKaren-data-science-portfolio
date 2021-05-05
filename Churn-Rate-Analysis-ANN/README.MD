@@ -10,7 +10,8 @@
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
         <img src="https://img.shields.io/badge/Keras-3d3b3b?logo=Keras"></a>
 </p>
-<br> <br>
+<br> 
+
 # Customer Churn Rate Analysis with Artificial Neural Networks
 
 **Why:** To estimate the churn rate of a bank customer in order to identify customers that are likely to leave the company and try to encourage them to stay by various marketing tools.
