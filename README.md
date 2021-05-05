@@ -92,6 +92,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a>
+- <a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/tree/main/Movie_Recommender">Github Repo</a> 
 - <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
 
 
