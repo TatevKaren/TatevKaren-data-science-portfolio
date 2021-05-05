@@ -1,12 +1,28 @@
+<br>
+
+
+<p align="center">
+   
+   <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">
+        <img src="https://img.shields.io/badge/Case_Study-Multivariate_Statistics-red"></a>
+   <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">
+        <img src="https://img.shields.io/badge/RStudio-Code__Run-blue?logo=RStudio"></a>
+   <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">
+        <img src="https://img.shields.io/badge/Statistics-PCA-yellow"></a>
+   <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">
+        <img src="https://img.shields.io/badge/Statistics-FA-green"></a>
+   <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/MultivariateStatistics_CaseStudy_PCA_FA_CCA.pdf">
+        <img src="https://img.shields.io/badge/Statistics-CCA-purple"></a>
+
+        
+</p>
+
+
+<br>
+
+
+
 # Multivariate Statistics Case Study: US City Ranking
-
-[![](https://img.shields.io/badge/RStudio-Code__Run-blue?logo=RStudio)]()
-[![](https://img.shields.io/badge/Multivariate-Statistics-red)]()
-[![](https://img.shields.io/badge/Statistics-PCA-yellow)]()
-[![](https://img.shields.io/badge/Statistics-FA-green)]()
-[![](https://img.shields.io/badge/Statistics-CCA-purple)]()
-
-
 
 **Why:** To identify the top US cities with highest capital, urban growth and development for purposes for everyone looking to relocate to or within US for various purposes.
 
