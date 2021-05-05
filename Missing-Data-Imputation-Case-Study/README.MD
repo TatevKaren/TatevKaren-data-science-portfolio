@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Missing_Data-Multiple_Imputation-yellow"></a> 
 
 </p>
-<br> 
+<br><br> 
 
 
 # Advanced Marketing Models (Missing Data Mechanisms)
@@ -27,7 +27,7 @@
 <br>
 <p align="center">
     <img src="https://atrium.ai/wp-content/uploads/elementor/thumbs/data_missing1-ot56ma5z1cf33uufbml86573m1k4wz1wgsnfz63vk8.jpg?raw=true"
-  width=699" height="400">
+  width=750" height="370">
 </p> 
 
 <br>
