@@ -79,13 +79,13 @@ To evaluate the mode we use **Mean Squared Error (MSE)**, **Bias**, **Mean Stand
 Following table shows sample regression output.
 <p align="center">
     <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/LS_MM_RegressionResults.png?raw=true"
-  width=850" height="120">
+  width=400" height="600">
 </p> 
 
 Following table shows sample Single Imputation output.
 <p align="center">
     <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/SingleImputation_Results.png?raw=true"
-  width=850" height="120">
+  width=400" height="300">
 </p> 
 
 
