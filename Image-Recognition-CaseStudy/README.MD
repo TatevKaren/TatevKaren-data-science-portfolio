@@ -1,3 +1,4 @@
+<br>
 <p align="center">
    
    <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
