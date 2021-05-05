@@ -80,7 +80,9 @@ To evaluate the mode we use **Mean Squared Error (MSE)**, **Bias**,
 <br>
 
 ## Case Study Findings
-We have seen that increasing amount of missingness in data leads to an increase in mean MSE for both OLS and MM estimation results. Moreover,we observe that mean bias is 0 in OLS regression for all missingness rates which is not the case in MM estimation.
+We have seen that increasing amount of missingness in data leads to an increase in mean MSE for both OLS and MM estimation results. Moreover,we observe that mean bias is 0 in OLS regression for all missingness rates which is not the case in MM estimation. What we also find is that when missingness is 10% the mean MSE and mean standard errors are very close to the their true values for both single and multiple imputations. However, when there is more than 10% missingness in the data mean SE is lower than the true mean SE for single imputation case when n = 100 while in MI the SE estimates are close to the true one for both low and high amount of missingness. 
+
+So, when comparing the mean SE’s for single and multiple imputation for n = 100 case we observe that for OLS the values in case λ = 10%, SI and MI perform equally well but when = 20% or larger, the mean standard errors are much smaller then the true value in SI and almost the same as TRUE value in MI, even for 50% of missingness. We also see that MM doesn’t perform better than OLS in terms of bias and estimation of standard errors.
 
 <br>
 
