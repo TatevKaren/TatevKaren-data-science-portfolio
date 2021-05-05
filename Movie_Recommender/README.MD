@@ -1,3 +1,26 @@
+<br>
+
+<p align="center">
+    
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Case_Study-TopN_Movie_Recommender-red"></a>
+        
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Data-Cross_Sectional-green"></a> 
+        
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/MovieLens__Rating-data-important?logo=Amazon"></a> 
+
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Python-Run__Step__by__Step-blue?logo=Python"></a>
+
+        
+</p>
+<br>
+
+
+
+
 # Top-N Movie Recommender
 
 **Why:** For a given movie subscriber, determine the top N movies that this user will likely be interested in and if recommended he/she will watch these movies as well.
