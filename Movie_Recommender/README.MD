@@ -48,6 +48,9 @@ The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/
 - K-Nearest Neighbors
 - Model Evaluation (Cosine Similarity)
 
+<br>
+
+
 ## Data (MovieLens)
 In this case study we use the MovieLens dataset consisting of 20000263 ratings and 465564 tag applications across 27278 movies spanning a period of 20 years, from January 1995 to March 2015 1. This data was generated and used by Harper and Konstan (2015). Each row in the Rating data is a tuple with 4 components or variables and each row in the Movie data is a tuple consisting of 3 components or variables. Data consists of the following variables:
 - userId
@@ -58,6 +61,9 @@ In this case study we use the MovieLens dataset consisting of 20000263 ratings a
 - title
 - genre
 
+<br><br>
+
+
 # Methodology
 ## kNN based Item-to-Item Collaborative Filtering
 To generate movie recommendations we usee Collaborativ Filtering algoritm. The idea behind this approach is that similar users are ex- pected to assign similar ratings to the same item. In case of Item-based CF, the system finds similar items and assuming that similar items will be rated in a similar way by the same person, it predicts the rating corresponding to a user assigned to that item. Usu- ally, the Item-based CF is preferred over the User-based CF because users can change their preferences and choices (aging, change of environment) whereas items (relatively) does not change over time.
@@ -67,7 +73,8 @@ Assuming that, if a user likes a certain movie, then she may like similar movies
     <img src="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/blob/main/Movie_Recommender/Movie%20Similarity.png?raw=true"
   width=450" height="250">
 </p> 
-                         
+ <br><br>
+                        
                          
 ## Model Evaluation
 The model is evaluated for different number of neighbors N, N= 5,10,20,30,50 and each time we calculate the precision of the model.                        
@@ -75,6 +82,8 @@ The model is evaluated for different number of neighbors N, N= 5,10,20,30,50 and
 <img src="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/blob/main/Movie_Recommender/Recommender%20Model%20Evaluation.png?raw=true"
   width=700" height="800">
 </p> 
+<br><br>
+
  
 ## Testing the model for a sample movie 
 <p align="center">
