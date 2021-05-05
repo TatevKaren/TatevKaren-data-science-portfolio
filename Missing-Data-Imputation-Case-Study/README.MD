@@ -39,8 +39,10 @@ The <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-scien
 - Missing data detection
 - Missing data mechanisms (MNAR, MCAR, MAR)
 - Missing data imputation techniques (Single Imputation, Multiple Imputation)
-- Impact oof Missing Data on OLS regression results
-- Impact oof Missing Data on Robust MM regression results
+- Data Simulation to ingest missing data with MNAR,MCAR,MAR mechanism
+- OLS and MM regressions
+- Impact of Missing Data on OLS regression results
+- Impact of Missing Data on Robust MM regression results
 
 
 <br>
@@ -62,6 +64,9 @@ In this analysis we use the Boston housing data introduced by Harrison and Rubin
 - MEDV: Median value of owner-occupied homes in $1000's
 
 <br>
+
+
+## Model Evaluation
 
 
 
