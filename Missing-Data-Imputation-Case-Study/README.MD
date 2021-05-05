@@ -11,7 +11,7 @@
    <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
         <img src="https://img.shields.io/badge/Missing_Data-Single_Imputation-important"></a>  
     <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_OLS_MM_SIMI_CaseStudy.pdf"> 
-        <img src="https://img.shields.io/badge/Missing_Data-Multiple_Imputation-important"></a> 
+        <img src="https://img.shields.io/badge/Missing_Data-Multiple_Imputation-yellow"></a> 
 
 </p>
 <br> 
