@@ -23,9 +23,9 @@
 **How:** Using 8K images of dogs and cats to train Convolutional Neural Network(CNN) to predict whether the input image is a dog image or a cat image.
 
 <br>
-<p alighn="center" href = "https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
+<p alighn="centre" href = "https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
     <img src="https://miro.medium.com/max/962/1*MBSM_G12XN105sEHsJ6C3A.png?raw=true"
-  width=800" height="450">
+  width=700" height="450">
 </p> 
                          
 ## Case Study 
