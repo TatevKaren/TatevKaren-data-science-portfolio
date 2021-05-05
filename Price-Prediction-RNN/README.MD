@@ -16,6 +16,8 @@
         <img src="https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow"></a>
    <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
         <img src="https://img.shields.io/badge/Keras-3d3b3b?logo=Keras"></a>
+   <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Data-Time_Series-green"></a>
 
 </p>
 <br> 
