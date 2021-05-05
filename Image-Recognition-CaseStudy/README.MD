@@ -1,6 +1,10 @@
 <p align="center">
    
    <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Case_Study-Image_Recognition-yellow"></a>
+   <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Data-Dog_Cat_Images-green"></a> 
+   <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
         <img src="https://img.shields.io/badge/Deep__Learning-CNN-red"></a>
    <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
         <img src="https://img.shields.io/badge/Python-Run_Code-blue?logo=Python"></a>
@@ -8,10 +12,6 @@
         <img src="https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow"></a>
    <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
         <img src="https://img.shields.io/badge/Keras-3d3b3b?logo=Keras"></a>
-   <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
-        <img src="https://img.shields.io/badge/Case_Study-Image_Recognition-yellow"></a>
-   <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
-        <img src="https://img.shields.io/badge/Data-Dog_Cat_Images-green"></a>
         
 </p>
 <br>
