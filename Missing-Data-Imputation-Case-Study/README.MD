@@ -77,10 +77,16 @@ In this analysis we use the Boston housing data introduced by Harrison and Rubin
 To evaluate the mode we use **Mean Squared Error (MSE)**, **Bias**, **Mean Standard Error**, **CR** based on 95% Confidence Intervals or stated differently, a combined performance measure for both coefficient estimates and standard errors.
 
 Following table shows sample regression output.
-
+<p align="center">
+    <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/LS_MM_RegressionResults.png?raw=true"
+  width=850" height="120">
+</p> 
 
 Following table shows sample Single Imputation output.
-
+<p align="center">
+    <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/SingleImputation_Results.png?raw=true"
+  width=850" height="120">
+</p> 
 
 
 
