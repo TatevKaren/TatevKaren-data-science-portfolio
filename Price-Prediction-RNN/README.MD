@@ -1,9 +1,27 @@
-[![](https://img.shields.io/badge/Deep__Learning-RNN-brightgreen)]()
-[![](https://img.shields.io/badge/Python-Run_Code-blue?logo=Python)]()
-[![](https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow)]()
-[![](https://img.shields.io/badge/Keras-3d3b3b?logo=Keras)]()
-[![](https://img.shields.io/badge/Price__Prediction-Google__Stock-yellow?logo=Google)]()
-[![](https://img.shields.io/badge/Price__Prediction-Bitcoin-yellow?logo=Bitcoin)]()
+
+<br><br>
+<p align="center">
+   
+   <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Deep__Learning-RNN-brightgreen"></a>
+   <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Python-Run_Code-blue?logo=Python"></a>
+   <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow"></a>
+   <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Keras-3d3b3b?logo=Keras"></a>
+   <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Case_Study-Price_Prediction-red"></a>
+   <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Price__Prediction-Google__Stock-yellow"></a>
+   <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf">
+        <img src="https://img.shields.io/badge/Price__Prediction-Bitcoin-yellow?logo=Bitcoin"></a>
+        
+</p>
+<br> 
+
+
+
 
 # Recurrent Neural Network Pricing Model
 
