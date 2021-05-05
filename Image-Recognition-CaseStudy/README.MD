@@ -1,9 +1,3 @@
-[![](https://img.shields.io/badge/Deep__Learning-CNN-red)]()
-[![](https://img.shields.io/badge/Python-Run_Code-blue?logo=Python)]()
-[![](https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow)]()
-[![](https://img.shields.io/badge/Keras-3d3b3b?logo=Keras)]()
-[![](https://img.shields.io/badge/Image__Recognition-Cat_Dog_Images-yellow)]()
-
 <p align="center">
    
    <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf">
@@ -20,7 +14,7 @@
         <img src="https://img.shields.io/badge/Data-Dog_Cat_Images-green"></a>
         
 </p>
-
+<br>
 
 # Image Recognition with Convolutional Neural Networks
 
