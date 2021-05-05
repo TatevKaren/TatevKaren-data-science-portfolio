@@ -80,7 +80,7 @@ After compiling the model the CNN model accurately classified the first picture 
 <br><br>
 <p>
     <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Prediction_Snapshot.png?raw=true"
-  width="1100" height="550">
+  width="1100" height="450">
 </p>
 
 
