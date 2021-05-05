@@ -1,3 +1,21 @@
+<br>
+
+<p align="center">
+   
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Recommender%20System-LDA--LFM-gree"></a>
+           <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Data__Cross-Sectional-green"></a> 
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Amazon.com-23__datasets-red?logo=Amazon"></a> 
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Tensorflow-3d3b3b?logo=Tensorflow"></a>
+   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
+        <img src="https://img.shields.io/badge/Python-Run__Step__by__Step-blue?logo=Python"></a>
+
+        
+</p>
+<br>
 
 # LDA-LFM Recommender System 
 **This work is based on a paper preseted and published at 36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)**
@@ -10,27 +28,7 @@
 **Why:** Most of the existing recommender systems are based only on the rating data, and they ignore other sources of information that might increase the quality of recommendations, such as textual reviews or user and item characteristics. Moreover, the majority of those systems are applicable only on small datasets and are unable to handle large datasets. <br><br>
 
 **How:** We propose a new hybrid recommender algorithm that combines a rating modelling technique (i.e., Latent Factor Model) with a topic modelling method based on textual reviews (i.e., Latent Dirichlet Allocation), and we extend the algorithm such that it allows adding extra user- and item-specific information to the system. We evaluated the performance of the algorithm using Amazon.com datasets. <br><br>
-  
- [![](https://img.shields.io/badge/Recommender%20System-LDA--LFM-gree)]()
- [![](https://img.shields.io/badge/Amazon.com-23__datasets-red?logo=Amazon)]()
- [![](https://img.shields.io/badge/Tensorflow-EE4C2C?logo=Tensorflow)]()
- [![](https://img.shields.io/badge/Python-Run__Step__by__Step-blue?logo=Python)]()
 
-<p align="center">
-   
-   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
-        <img src="https://img.shields.io/badge/Recommender%20System-LDA--LFM-gree"></a>
-           <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
-        <img src="https://img.shields.io/badge/Data__Cross-Sectional-green"></a> 
-   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
-        <img src="https://img.shields.io/badge/Amazon.com-23__datasets-red?logo=Amazon"></a> 
-   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
-        <img src="https://img.shields.io/badge/Tensorflow-EE4C2C?logo=Tensorflow"></a>
-   <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view">
-        <img src="https://img.shields.io/badge/Python-Run__Step__by__Step-blue?logo=Python"></a>
-
-        
-</p>
 <br>
  
  ## Abstract
