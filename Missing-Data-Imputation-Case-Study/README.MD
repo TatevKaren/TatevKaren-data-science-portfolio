@@ -68,7 +68,7 @@ In this analysis we use the Boston housing data introduced by Harrison and Rubin
 ## Regression Model
 <p align="center">
     <img src="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Missing_Data_Regression_Model.png?raw=true"
-  width=750" height="150">
+  width=850" height="100">
 </p> 
 
 <br>
