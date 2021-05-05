@@ -1,7 +1,7 @@
 <br><br>
 <p align="center">
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
-        <img src="https://img.shields.io/badge/Case_Study-Churn_Rate-red"></a>
+        <img src="https://img.shields.io/badge/Case_Study-Churn_Rate_Analysis-red"></a>
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
         <img src="https://img.shields.io/badge/Deep__Learning-ANN-yellow"></a>
    <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf">
