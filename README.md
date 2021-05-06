@@ -26,7 +26,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 - <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view"> Research Paper</a>
 - <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren">Conference Presentation Video</a>
-- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/README.MD"> Github Repo</a>
+- <a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/tree/main/LDA-LFM-New-Recommender"> Github Repo</a>
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/LDA-LFM-Recommender-System/Pyton-Code"> Python Code</a>
 - <a href="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf">Blog Post</a>
 <br><br>
@@ -56,7 +56,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 - <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
 - <a href = "https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> Blog Post</a>
-- <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model">Github Repo</a> 
+- <a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/tree/main/Price-Prediction-RNN">Github Repo</a> 
 - <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Network_Case_Study.py"> Python Code</a>
 <br><br>
 
@@ -66,7 +66,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 **How:** Using 8K images of dogs and cats to train Convolutional Neural Network(CNN) to predict whether the input image is a dog image or a cat image.<br>
 
 - <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper</a>
-- <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study">Github Repo</a> 
+- <a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/tree/main/Image-Recognition-CaseStudy">Github Repo</a> 
 - <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Network_Case_Study.py"> Python Code</a>
 <br><br>
 
@@ -79,7 +79,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 - <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Networks_Case_Study-2.pdf"> Case Study Paper</a>
-- <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study">Github Repo</a> 
+- <a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/tree/main/Churn-Rate-Analysis-ANN">Github Repo</a> 
 - <a href="https://github.com/TatevKaren/artificial-neural-network-business_case_study/blob/main/Artificial_Neural_Network_Case_Study.py"> Python Code</a>
 
 <br><br>
