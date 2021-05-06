@@ -98,7 +98,7 @@ The combination of the Rectifier and Sigmoid activation functions is quite popul
 <img src="https://raw.githubusercontent.com/TatevKaren/artificial-neural-network-business_case_study/main/ANN_Case_Study_Sample_Output_1.png?raw=true"
   alt=""width="800" height="420">
 </p>
-Using the trained ANN model we have predicted the probability of each customer leaving. If this probability was larger than 50% we have assigned Y_pred label equal to 1, else Y_pred got value 0. Where value 1 suggests that the bank customer will leave the banks (has high likelihood of leaving the bank) and 0 suggests the customer will stay with the bank (has low likelihood of leaving the bank). We have then calculated the percentage of cases when the churn rate predicted label was equal to the actual churn rate, and we obatined **0.87 accuarcy**.
+Using the trained ANN model we have predicted the probability of each customer leaving. If this probability was larger than 50% we have assigned Y_pred label equal to 1, else Y_pred got value 0. Where value 1 suggests that the bank customer will leave the banks (has high likelihood of leaving the bank) and 0 suggests the customer will stay with the bank (has low likelihood of leaving the bank). We have then calculated the percentage of cases when the churn rate predicted label was equal to the actual churn rate, and we obatined **87% accuarcy**.
 
 <br>
 
