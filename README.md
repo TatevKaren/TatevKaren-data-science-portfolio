@@ -24,7 +24,7 @@ My Data Science Portfolio including **Case Studies** and **Research Projects** t
 <br><br>
 This research has been accepted and presented at **36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)**. The paper based on this work has been published at **Association for Computing Machinery (ACM)** journal and in ACM digital library. This paper has also been selected by the ACM SIGAPP Conference penalists to be extened and this extended version will be published in **Applied Computing Review (ACR)**, distributed to all ACM/SIGAPP members by paid subscription. 
 
-- <a href="https://drive.google.com/file/d/1f1M6DQ8kGGUbRRcbJ94e6ac3Yia4tsoe/view"> Research Paper</a>
+- <a href="https://dl.acm.org/doi/10.1145/3412841.3442065"> Published Paper</a> in ACM Digital Library
 - <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren">Conference Presentation Video</a>
 - <a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/tree/main/LDA-LFM-New-Recommender"> Github Repo</a>
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/LDA-LFM-Recommender-System/Pyton-Code"> Python Code</a>
