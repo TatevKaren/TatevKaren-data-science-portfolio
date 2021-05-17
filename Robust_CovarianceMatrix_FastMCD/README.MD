@@ -6,13 +6,11 @@
 
 **How:** Using FastMCD algorithm to compute robust estimators for location and scatter parameters for robustified LDA where we code the FastMCD function/algorithm manually in R and verify it's results with a FastMCD function from R library.<br>
 
+<p align="center">
+   <a align="center"> <img src="https://thumbs.dreamstime.com/b/funny-cartoon-circus-strong-man-muscular-athlete-lifts-barbell-retro-sportsman-mustache-flat-vector-guy-character-heavy-116376139.jpg" width="500" height="400"></a>
+</p>
+
 
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/AdvancedStatistics_FastMCD_CaseStudy.pdf"> Case Study Paper</a>
 - <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/FastMCD.R">R Code</a> 
 
-<br><br>
-<br><br>
-
-<p align="center">
-   <a align="center"> <img src="https://thumbs.dreamstime.com/b/funny-cartoon-circus-strong-man-muscular-athlete-lifts-barbell-retro-sportsman-mustache-flat-vector-guy-character-heavy-116376139.jpg" width="500" height="400"></a>
-</p>
