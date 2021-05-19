@@ -33,7 +33,7 @@
 
 <p align="center">
   <img src="https://s3-ap-southeast-1.amazonaws.com/cs-public-uploads-prod/3c9e2f39-b017-4ddf-ae5d-703429d49c62?raw=true"
-  width="800" height="500">
+  width="700" height="350">
 </p>
 <br>
 
