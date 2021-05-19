@@ -38,10 +38,11 @@ The increased popularity of e-commerce has led to an increase in both the number
 In this study, we designed a recommender system that combinesthe Latent Factor Model, based on rating data, with the Latent Dirichlet Allocation method,based on review data, applicable on both small and large data types.  We also investigatedthe  effect  of  adding  user-  and  item-  characteristics  on  the  performance  of  this  hybrid  rec-ommender  system.   Firstly,  we  found  that  adding  textual  reviews  to  the  RS  increases  itsprediction accuracy.  Secondly,  we observe that adding extra features to the recommendersystem increases the quality of its recommendations, which is especially true for medium andlarge datasets.  
   <br><br>
   
+  
+  - Check Out <a href="https://dl.acm.org/doi/10.1145/3412841.3442065"> Published Research Paper</a> in ACM Digital Library
   - Check Out <a href="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf">Medium Article </a>, a blog post explaining a part of the proposed algorithm
   - Check Out <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren">Conference Presentation Youtube Video</a>
   - Check Out <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/ConferencePresentation_SAC2021.pdf"> Conference Presentation Slides</a>
-  - Check Out <a href="https://dl.acm.org/doi/10.1145/3412841.3442065"> Published Research Paper</a> in ACM Digital Library
   
   <br>
   <br>
