@@ -8,7 +8,8 @@ My Data Science Portfolio including **Case Studies** and **Research Projects** t
 - Computer Science
 - Data Analytics
 - Combination of above
-<br><br><br><br>
+<br><br>
+<br><br>
 
 <h1 align="center" style="background-color:Tomato;"> Research Papers and Blog Posts</h1>
 <p align="center">
