@@ -28,14 +28,14 @@
   
 **Why:** Most of the existing recommender systems are based only on the rating data, and they ignore other sources of information that might increase the quality of recommendations, such as textual reviews or user and item characteristics. Moreover, the majority of those systems are applicable only on small datasets and are unable to handle large datasets. <br><br>
 
-**How:** We propose a new hybrid recommender algorithm that combines a rating modelling technique (i.e., Latent Factor Model) with a topic modelling method based on textual reviews (i.e., Latent Dirichlet Allocation), and we extend the algorithm such that it allows adding extra user- and item-specific information to the system. We evaluated the performance of the algorithm using Amazon.com datasets. <br><br>
+**How:** We propose a new hybrid recommender algorithm that combines a rating modeling technique (i.e., Latent Factor Model) with a topic modeling method based on textual reviews (i.e., Latent Dirichlet Allocation), and we extend the algorithm such that it allows adding extra user- and item-specific information to the system. We evaluated the performance of the algorithm using Amazon.com datasets. <br><br>
 
 <br>
  
  ## Abstract
-The increased popularity of e-commerce has led to an increase in both the number of onlineconsumers and products.  Deciding which product to buy from a large variety of productsmight be overwhelming.  Recommender systems (RS) are able to solve this problem of in-formation overload and help online buyers,  by suggesting them the right products to buy,resulting in higher customer satisfaction and customer loyalty.  Correspondingly, companiesget more opportunities to introduce new products and suggest them to the right customers,resulting in increased sales.  In order to make good recommendations, we must predict howa customer will respond to unseen product, based on the user feedback that often comes inthe form of a rating and review text.  However, traditional RS often use only the rating data,while ignoring the rich source of information present in users’ textual reviews and other typesof data.  Moreover, they are solely applicable to small datasets and unable to handle datasetswith millions of reviews.  
+The increased popularity of e-commerce has led to an increase in both the number of online consumers and products.  Deciding which product to buy from a large variety of products might be overwhelming.  Recommender systems (RS) can solve this problem of information overload and help online buyers,  by suggesting them the right products to buy, resulting in higher customer satisfaction and customer loyalty.  Correspondingly, companies get more opportunities to introduce new products and suggest them to the right customers, resulting in increased sales.  To make good recommendations, we must predict how a customer will respond to an unseen product, based on the user feedback that often comes in the form of a rating and reviews text.  However, traditional RS often uses only the rating data, while ignoring the rich source of information present in users’ textual reviews and other types of data.  Moreover, they are solely applicable to small datasets and unable to handle datasets with millions of reviews.  
 
-In this study, we designed a recommender system that combinesthe Latent Factor Model, based on rating data, with the Latent Dirichlet Allocation method,based on review data, applicable on both small and large data types.  We also investigatedthe  effect  of  adding  user-  and  item-  characteristics  on  the  performance  of  this  hybrid  rec-ommender  system.   Firstly,  we  found  that  adding  textual  reviews  to  the  RS  increases  itsprediction accuracy.  Secondly,  we observe that adding extra features to the recommendersystem increases the quality of its recommendations, which is especially true for medium andlarge datasets.  
+In this study, we designed a recommender system that combines the Latent Factor Model, based on rating data, with the Latent Dirichlet Allocation method, based on review data, applicable on both small and large data types.  We also investigated the effect of adding user-  and item-  characteristics on the performance of this hybrid recommender system.   Firstly,  we found that adding textual reviews to the  RS  increases its prediction accuracy.  Secondly,  we observe that adding extra features to the recommender system increases the quality of its recommendations, which is especially true for medium and large datasets.  
   <br><br>
   
   
@@ -53,14 +53,14 @@ In this expeiment, we used collection of datasets provided corresponding to the 
 <br>
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/10_30_rating_review_figure.png?raw=true?raw=true"
   width="600" height="400"> </p>
-This figure visualizes the percentage of ratings and reviews per item. Brown (dark grey for black and white print) bars represent the percentage of items with less than 10 ratings per category. Green (light grey for black and white print) bars rep- resent the percentage of items having on average more than 30 words per product category.
+This figure visualizes the percentage of ratings and reviews per item. Brown (dark grey for black and white print) bars represent the percentage of items with less than 10 ratings per category. Green (light grey for black and white print) bars represent the percentage of items having on average more than 30 words per product category.
   <br>
     <br>
   <br>
  
  
 # Python Code
-To reproduce the results obtained in this analysis you can execute following Python coded step-by-step. Note that many of the libraries such as **Tensorflow** need to be preinstalled on your computer. You can use the following syntax in your command line to install the desired Python package:
+To reproduce the results obtained in this analysis you can execute the following Python coded step-by-step. Note that many of the libraries such as **Tensorflow** need to be preinstalled on your computer. You can use the following syntax in your command line to install the desired Python package:
 
 ```Python
 # Check the versions of Pip3 and Python
@@ -74,11 +74,11 @@ sudo apt-get install python3-pip python3-dev -y
 pip3 install --upgrade pip
 
 # Install tensorflow (cpu only)
-pip3 install tensorflow
+pip3 install tensorFlow
 ```
 
 <br>
-To replicate the analysis including, cleaning and processing the data and generating recommendations with 4 different baseline moodels and with proposed method, you can use the following Python scrips. The order need to be kept intact to avoid errors and the **Amazon.com** data can be found in <a href = "https://jmcauley.ucsd.edu/data/amazon/">Julian McAuley</a> as mentioned earlier. You can choose out oof 23 different datasets each representing a dataset of a product category of Amazon E-commerce.
+To replicate the analysis including, cleaning and processing the data and generating recommendations with 4 different baseline models and with the proposed method, you can use the following Python scrips. The order needs to be kept intact to avoid errors and the **Amazon.com** data can be found in <a href = "https://jmcauley.ucsd.edu/data/amazon/">Julian McAuley</a> as mentioned earlier. You can choose out of 23 different datasets each representing a dataset of a product category of Amazon E-commerce.
 
 <br>
 
@@ -109,7 +109,7 @@ To replicate the analysis including, cleaning and processing the data and genera
 
 **Interpretation**
 
-This figure shows the percentage decrease or improvement in MSE when comparing the proposed method LDA-LFM to the Offset model and BRM. The green bars show the percentage decrrease in MSE or improvement in prediction accuracy when using LDA-LFM instead of the Offset method, whereas the gray bars show the percentage decrease in MSE or improvement in the accuracy of the predictions when using LDA-LFM instead of the Baseline Rating Model. What can see is that LDA-LFM improves the prediction accuracy with at least 10% compared to the Offset method for all datasets. When looking at the green bars we observe that the proposed method improves the accuracy of the predictions with at least 15% compared to the BRM model for most of the product datasets, and for the larger datasets this improvement can be more than 30% and even rich the 40% improvement. 
+This figure shows the percentage decrease or improvement in MSE when comparing the proposed method LDA-LFM to the Offset model and BRM. The green bars show the percentage decrease in MSE or improvement in prediction accuracy when using LDA-LFM instead of the Offset method, whereas the gray bars show the percentage decrease in MSE or improvement in the accuracy of the predictions when using LDA-LFM instead of the Baseline Rating Model. What can see is that LDA-LFM improves the prediction accuracy by at least 10% compared to the Offset method for all datasets. When looking at the green bars we observe that the proposed method improves the accuracy of the predictions by at least 15% compared to the BRM model for most of the product datasets, and for the larger datasets, this improvement can be more than 30% and even rich the 40% improvement. 
   <br>
   <br><br><br>
   
@@ -122,14 +122,14 @@ This figure shows the percentage decrease or improvement in MSE when c
   
 **Interpretation**
 
-The figure shows the percentage decrease in MSE or improvement in prediction accuracy when comparing the proposed method LDA-LFM to the standard LFM model and LDAFirst model. The orange bars show the percentage decrease in MSE when using LDA-LFM instead of the Standard LFM method, whereas the red bars show the percentage decrease in MSE when using LDA-LFM instead of the LDAFirst. What the figure shows is that in both cases the majority of bars lie above the 0 level indication positive effect on the prediction accuracy when using the proposed method. <br>
-Looking at the orange bars one can see that for datasets except for smallest 3, Musical Instruments, Amazon Instant Video, Digital Music the LDA-LFM leads to an increase in the prediction accuracy, in the case of Kindle Store dataset this improvement is 14%, which means that the proposed algorithm leads to 14% improvement in the prediction accuracy compared to the standard LFM model for this dataset. When looking at the red bars we observe that for almost all datasets except of the smallest 3 and Patio, Lawn and Garden, the LDA-LFM leads to improvement in the prediction accuracy compared to the LDAFirst method, and in some cases such as Kindle Store the improvement is 14%. 
-So, we see that the proposed model leads to an improvement in the prediction accuracy compared to the all 4 baseline cases for medium sized and large datasets. 
+The figure shows the percentage decrease in MSE or improvement in prediction accuracy when comparing the proposed method LDA-LFM to the standard LFM model and LDAFirst model. The orange bars show the percentage decrease in MSE when using LDA-LFM instead of the Standard LFM method, whereas the red bars show the percentage decrease in MSE when using LDA-LFM instead of the LDAFirst. What the figure shows is that in both cases the majority of bars lie above the 0 level indication a positive effect on the prediction accuracy when using the proposed method. <br>
+Looking at the orange bars one can see that for datasets except for the smallest 3, Musical Instruments, Amazon Instant Video, Digital Music the LDA-LFM leads to an increase in the prediction accuracy, in the case of the Kindle Store dataset this improvement is 14%, which means that the proposed algorithm leads to 14% improvement in the prediction accuracy compared to the standard LFM model for this dataset. When looking at the red bars we observe that for almost all datasets except the smallest 3 and Patio, Lawn and Garden, the LDA-LFM leads to improvement in the prediction accuracy compared to the LDAFirst method, and in some cases such as Kindle Store, the improvement is 14%. 
+So, we see that the proposed model leads to an improvement in the prediction accuracy compared to all 4 baseline cases for medium-sized and large datasets. 
   
  <br> <br><br><br>
  ## Results 3
 
- Performance of **proposed LDA-LFM recommender system** compared to itself when adding 1-4 **extra features** in terms of Mean Squared Error (MSE)
+ Performance of **proposed LDA-LFM recommender system** compared to itself when adding 1-4 **Extra features** in terms of Mean Squared Error (MSE)
 
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Picture%203.png?raw=true"
   width="650" height="400"> </p>
@@ -137,7 +137,7 @@ So, we see that the proposed model leads to an improvement in the pre
   
 **Interpretation**
 
-This figure shows the improvement in the prediction accuracy of the base LDA-LFM model with its 4 different variations when adding 1-4 extra features, the red bars correspond to the case when 1 extra feature  is added to the model, orange when 2 extra features are added, gray when 3 features are added and green when 4 extra features are added. As we can see there are many positive bars which means that for all those cases it holds that adding extra  features leads to higher prediction accuracy in terms of MSE. For almost all datasets we see positive effects or not very significant positive or negative effects. The green bars corresponding to the case where the most amount of extra features had been added are more visible suggesting that adding more features help to improve the prediction accuracy of the LDA-LFM model more. 
+This figure shows the improvement in the prediction accuracy of the base LDA-LFM model with its 4 different variations when adding 1-4 extra features, the red bars correspond to the case when 1 extra feature is added to the model, orange when 2 extra features are added, gray when 3 features are added and green when 4 extra features are added. As we can see there are many positive bars which means that for all those cases it holds that adding extra features leads to higher prediction accuracy in terms of MSE. For almost all datasets we see positive effects or not very significant positive or negative effects. The green bars corresponding to the case where the most amount of extra features had been added are more visible suggesting that adding more features helps to improve the prediction accuracy of the LDA-LFM model more. 
 
   <br>
   <br>
