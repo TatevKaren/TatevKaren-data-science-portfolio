@@ -127,6 +127,7 @@ Looking at the orange bars one can see that for datasets except for 
 So, we see that the proposed model leads to an improvement in the prediction accuracy compared to all 4 baseline cases for medium-sized and large datasets. 
   
  <br> <br><br><br>
+ 
  ## Results 3
 
  Performance of **proposed LDA-LFM recommender system** compared to itself when adding 1-4 **Extra features** in terms of Mean Squared Error (MSE)
