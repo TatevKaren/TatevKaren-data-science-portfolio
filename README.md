@@ -27,14 +27,16 @@ My Data Science Portfolio including **Case Studies** and **Research Projects** t
 <br><br>
 This research has been accepted and presented at **36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)**. The paper based on this work has been published at **Association for Computing Machinery (ACM)** journal and in ACM digital library. This paper has also been selected by the ACM SIGAPP Conference penalists to be extened and this extended version will be published in **Applied Computing Review (ACR)**, distributed to all ACM/SIGAPP members by paid subscription. 
 
-- <a href="https://dl.acm.org/doi/10.1145/3412841.3442065"> Published Paper</a> in ACM Digital Library
+- <a href="https://dl.acm.org/doi/10.1145/3412841.3442065"> Research Paper: Utilizing Textual Reviews in Latent Factor Models for Recommender System</a> in ACM Digital Library
+- <a href="https://dl.acm.org/doi/10.1145/3477127.3477130"> Research Paper: LDA-LFM: A Joint Exploitation of Review Text and Ratings in Recommender Systems</a> in ACM ACR Digital Library
 - <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren">Conference Presentation Video</a>
 - <a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/tree/main/LDA-LFM-New-Recommender"> Github Repo</a>
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/LDA-LFM-Recommender-System/Pyton-Code"> Python Code</a>
 - <a href="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf">Blog Post</a>
 <br><br>
 ## Blog Posts 
-- Fundamentals of Statistics for Data Scientists and Data Analysts in <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">Towards Data Science</a>
+- Monte Carlo Simulation and Variants with Python<a href = "https://towardsdatascience.com/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f"> in Towards Data Science</a>
+- Fundamentals of Statistics for Data Scientists and Data Analysts in <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">in Towards Data Science</a>
 - PySpark Cheat Sheet For Big Data Analytics in <a href = "https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185">Analytics Vidhya</a>
 - Predicting Bitcoin’s Price With Recurrent Neural Networks in <a href = "https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> Gitconnected</a>
 - Using Customer and Product features in Recommender Systems in <a href = "https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf"> MachineLearning</a>
