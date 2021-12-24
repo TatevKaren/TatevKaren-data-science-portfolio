@@ -6,7 +6,7 @@ My Data Science Portfolio including **Case Studies** and **Research Projects** t
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms">Machine Learning</a>
 - <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model">Deep Learning</a>
 - <a href="https://github.com/TatevKaren/PySpark_Tutorial">Data Analytics<a>
-- <a href="https://github.com/TatevKaren/Finance-Projects">Finance<a>
+- <a href="https://github.com/TatevKaren/Finance-Projects">Finance <a>
 - Combination of above
 <br><br>
 
