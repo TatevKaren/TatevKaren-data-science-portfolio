@@ -67,7 +67,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
   
 ## Case Study: Anomaly Detection Using Machine Learning 
 **Why:** To identify the outliers in the data using Machine Learning.<br><br>
-**How:** Using Unsupervised Multivariate Machine Learning Algorithm, Isolation Forest, combined with dimensionality reduction technique PCA, too identify anomalies iin the data.<br>
+**How:** Using Unsupervised Multivariate Machine Learning Algorithm, Isolation Forest, combined with dimensionality reduction technique PCA, to identify anomalies in the data.<br>
 
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Anomaly_detection_techniques/Anomaly%20Detction%20Paper.pdf"> Case Study Paper</a>
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Anomaly_detection_techniques">Github Repo</a> 
