@@ -6,7 +6,7 @@ My Data Science Portfolio including **Case Studies** and **Research Projects** t
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms">Machine Learning</a>
 - <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model">Deep Learning</a>
 - <a href="https://github.com/TatevKaren/PySpark_Tutorial">Data Analytics<a>
-- <a href="https://github.com/TatevKaren/Finance-Projects">Finance <a>
+- <a href="https://github.com/TatevKaren/What-makes-playlist-successful">Product Data Sciencee <a>
   <br><br>
 
 <br><br>
@@ -54,6 +54,18 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model/blob/main/Recurrent_Neural_Network_Case_Study.py"> Python Code</a>
 <br><br>
   
+
+## Case Study: What-makes-playlist-successful
+
+**Why** To find out which features maake playlist successful, to identify such playlists aand recommend them to the users to improve customer satisfaction and engagement. 
+
+**How** Use EDA (Exploratory Data Analysis) and Simple Machine Learning to identify the features related to the sucessful playlists.
+
+Python Code: <a href = "https://github.com/TatevKaren/What-makes-playlist-successful/blob/main/spotify_analysis.py"> here </a>
+
+Medium Blog: <a href = "https://towardsdatascience.com/spotify-data-science-case-study-what-makes-a-playlist-successful-28fec482c523"> here </a>
+
+
 ## Case Study: Anomaly Detection Using Machine Learning 
 **Why:** To identify the outliers in the data using Machine Learning.<br><br>
 **How:** Using Unsupervised Multivariate Machine Learning Algorithm, Isolation Forest, combined with dimensionality reduction technique PCA, to identify anomalies in the data.<br>
