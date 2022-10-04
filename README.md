@@ -37,13 +37,8 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - Complete Guide to A/B Testing Design, Implementation and Pitfalls <a href = "https://tatev-aslanyan.medium.com/"> in Towards Data Science</a>
 - Monte Carlo Simulation and Variants with Python<a href = "https://towardsdatascience.com/monte-carlo-simulation-and-variants-with-python-43e3e7c59e1f"> in Towards Data Science</a>
 - Fundamentals of Statistics for Data Scientists and Data Analysts in <a href = "https://towardsdatascience.com/fundamentals-of-statistics-for-data-scientists-and-data-analysts-69d93a05aae7">in Towards Data Science</a>
-- PySpark Cheat Sheet For Big Data Analytics in <a href = "https://medium.com/analytics-vidhya/pyspark-cheat-sheet-big-data-analytics-161a8e1f6185">Analytics Vidhya</a>
 - Predicting Bitcoin’s Price With Recurrent Neural Networks in <a href = "https://levelup.gitconnected.com/predicting-bitcoins-price-with-recurrent-neural-networks-a27b4d2d839"> Gitconnected</a>
-- Using Customer and Product features in Recommender Systems in <a href = "https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf"> MachineLearning</a>
 <br><br>
-<br><br>
-<br><br>
-
 
 
 
