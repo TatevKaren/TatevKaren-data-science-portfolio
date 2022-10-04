@@ -9,7 +9,7 @@ My Data Science Portfolio including **Case Studies** and **Research Projects** t
 **Why:** Most of the existing recommender systems are based only on the rating data, and they ignore other sources of information that might increase the quality of recommendations, such as textual reviews or user and item characteristics. Moreover, the majority of those systems are applicable only on small datasets and are unable to handle large datasets. <br><br>
 **How:** We propose a new hybrid recommender algorithm that combines a rating modelling technique (i.e., Latent Factor Model) with a topic modelling method based on textual reviews (i.e., Latent Dirichlet Allocation), and we extend the algorithm such that it allows adding extra user- and item-specific information to the system. We evaluated the performance of the algorithm using Amazon.com datasets. 
 <br>
-<br><br>
+<br>
 This research has been accepted and presented at **36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)**. The paper based on this work has been published at **Association for Computing Machinery (ACM)** journal and in ACM digital library. This paper has also been selected by the ACM SIGAPP Conference penalists to be extened and this extended version will be published in **Applied Computing Review (ACR)**, distributed to all ACM/SIGAPP members by paid subscription. 
 
 - <a href="https://dl.acm.org/doi/10.1145/3412841.3442065"> Research Paper: Utilizing Textual Reviews in Latent Factor Models for Recommender System</a> in ACM Digital Library
