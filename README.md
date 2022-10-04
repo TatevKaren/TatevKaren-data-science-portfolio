@@ -45,12 +45,6 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 <br><br>
 
 
-<h1 align="center" style="background-color:Tomato;"> Case Studies in Deep Learning </h1>
-<p align="center">
-<img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif?raw=true"
-  alt=""width="400" height="300">
-</p>
-<br><br>
 
 
 ## Case Study: Price Prediction with Recurrent Neural Networks
@@ -82,7 +76,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 
 - <a href="https://github.com/TatevKaren/CaseStudy_Anomaly_Detection_Machine_Learning/blob/main/Anomaly%20Detection%20Paper.pdf"> Case Study Paper</a>
-- <a href="">Github Repo</a> 
+- <a href="https://github.com/TatevKaren/TatevKaren-data-science-portfolio/tree/main/Anomaly%20Detection">Github Repo</a> 
 - <a href="https://github.com/TatevKaren/CaseStudy_Anomaly_Detection_Machine_Learning/blob/main/OutlierDetection.ipynb"> Jupiter Notebook with Python Code</a>
 <br><br>
    
