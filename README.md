@@ -74,7 +74,18 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 - <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Anomaly_detection_techniques/Unsupervised_Learning_Anomaly_Detection.ipynb"> Python Code in Jupiter Notebook</a>
 <br><br>
   
-  
+ 
+## Case Study: Anomaly Detection 
+
+**Why:**  <br><br>
+**How:** <br>
+
+
+- <a href="https://github.com/TatevKaren/CaseStudy_Anomaly_Detection_Machine_Learning/blob/main/Anomaly%20Detection%20Paper.pdf"> Case Study Paper</a>
+- <a href="">Github Repo</a> 
+- <a href="https://github.com/TatevKaren/CaseStudy_Anomaly_Detection_Machine_Learning/blob/main/OutlierDetection.ipynb"> Jupiter Notebook with Python Code</a>
+<br><br>
+   
 
 ## Case Study: Image Recognition with Convolutional Neural Networks
 
