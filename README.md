@@ -1,21 +1,5 @@
 # Tatev Karen Aslanyan Portfolio
-My Data Science Portfolio including **Case Studies** and **Research Projects** that I completed, which are solving a particular business problem or introducing a new product/algorithm. All case studies include a Case Study paper and codes. Addionally, I beleive in the global power of shared knowledge and science, so you can also find here my **Authored Papers** and **Blog Posts** in the following subject areas:
-
-- <a href="https://github.com/TatevKaren/mathematics-statistics-for-data-science">Statistics</a>
-- <a href="https://github.com/TatevKaren/econometric-algorithms">Econometrics</a>
-- <a href="https://github.com/TatevKaren/data-science-popular-algorithms">Machine Learning</a>
-- <a href="https://github.com/TatevKaren/recurrent-neural-network-pricing-model">Deep Learning</a>
-- <a href="https://github.com/TatevKaren/What-makes-playlist-successful">Product Data Science<a>
-- <a href="https://github.com/TatevKaren/PySpark_Tutorial">Data Analytics<a>
-
-<br><br>
-
-<h1 align="center" style="background-color:Tomato;"> Research Papers and Blog Posts</h1>
-<p align="center">
-<img src="https://i.pinimg.com/originals/24/3b/24/243b24ce3b4d9bc259810eeecd67dc20.gif?raw=true"
-  alt=""width="500" height="280">
-</p>
-
+My Data Science Portfolio including **Case Studies** and **Research Projects** that I completed, which are solving a particular business problem or introducing a new product/algorithm. All case studies include a Case Study paper and codes. Addionally, I beleive in the global power of shared knowledge and science, so you can also find here my **Case Studies**, **Authored Papers** and **Blog Posts**. 
 
 ## Research Project/Authored Paper: New Recommender Algorithm LDA-LFM
 
