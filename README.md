@@ -1,5 +1,8 @@
 # Tatev Karen Aslanyan Portfolio
-My Data Science Portfolio including **Case Studies** and **Research Projects** that I completed, which are solving a particular business problem or introducing a new product/algorithm. All case studies include a Case Study paper and codes. Addionally, I beleive in the global power of shared knowledge and science, so you can also find here my **Case Studies**, **Authored Papers** and **Blog Posts**. 
+My Data Science Portfolio including **Case Studies** and **Research Projects** that I completed, which are solving a particular business problem or introducing a new product/algorithm. All case studies include a Case Study paper and codes. Addionally, I beleive in the global power of shared knowledge and science, so you can also find here my **Authored Papers** and **Blog Posts**. 
+
+
+
 
 ## Research Project/Authored Paper: New Recommender Algorithm LDA-LFM
 
