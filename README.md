@@ -8,8 +8,6 @@ My Data Science Portfolio including **Case Studies** and **Research Projects** t
 - <a href="https://github.com/TatevKaren/What-makes-playlist-successful">Product Data Science<a>
 - <a href="https://github.com/TatevKaren/PySpark_Tutorial">Data Analytics<a>
 
-  <br><br>
-
 <br><br>
 
 <h1 align="center" style="background-color:Tomato;"> Research Papers and Blog Posts</h1>
