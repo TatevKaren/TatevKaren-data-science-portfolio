@@ -43,7 +43,7 @@ This research has been accepted and presented at **36th ACM/SIGAPP Symposium on 
 
 ## Case Study: What-makes-playlist-successful
 
-**Why** To find out which features maake playlist successful, to identify such playlists aand recommend them to the users to improve customer satisfaction and engagement. 
+**Why** To find out which features maake playlist successful, to identify such playlists and recommend them to the users to improve customer satisfaction and engagement. 
 
 **How** Use EDA (Exploratory Data Analysis) and Simple Machine Learning to identify the features related to the sucessful playlists.
 
