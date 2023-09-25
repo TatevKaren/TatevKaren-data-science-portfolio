@@ -32,7 +32,7 @@
 
 
 <p align="center">
-  <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/SCALING_NETS_2880x1620_Lede.svg?raw=true"
+  <img src="https://d2r55xnwy6nx47.cloudfront.net/uploads/2022/02/SCALING_NETS_2880x1620_Lede.svg"
   width="700" height="350">
 </p>
 <br>
