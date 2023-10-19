@@ -23,14 +23,7 @@
 
 **How:** Using Boston housing data with a model-based simulation to perform Ordinary Least Squares (OLS) and Method of Moments (MM) estimations when applying Single Imputation (SI) or Multiple Imputation (MI) imputation techniques while artificially adding missing data with 3 different missing data mechanisms Missing At Random(MAR), Missing Completely At Random(MCAR) and Missing Not At Random(MNAR).<br>
 
-<br>
-<p align="center">
-    <img src="https://atrium.ai/wp-content/uploads/elementor/thumbs/data_missing1-ot56ma5z1cf33uufbml86573m1k4wz1wgsnfz63vk8.jpg?raw=true"
-  width=750" height="370">
-</p> 
 
-<br>
-<br>
 
 ## Case Study 
 In this Case Study we explore various missing data mechanisms such as MCAR, MNAR, and MAR. How missing data can be detected and additionally, we investigate the impact of these different type of missing data on the estimation results, where we use Ordinary Least Squares(OLS) and Method of Moments(MM) estimation as examples of estimation techniques.     
